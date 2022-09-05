@@ -16,7 +16,7 @@ layout: editorial
 
 ### If you start feeling confused while still in a peaceful zone/state of mind:
 
-1. **ground yourself with an activity that makes you** [**feel safe and comfortable;**](../materializing/manifesting/bliss/)****
-2. **then, return to** [**meditation practices**](../../../tarot/the-usdchoice-of-tarot/reading-tarot/meditation-groundwork/)**.**
+1. **ground yourself with an activity that makes you** [**feel safe and comfortable;**](../../materializing/manifesting/bliss/)****
+2. **then, return to** [**meditation practices**](../../../../tarot/the-usdchoice-of-tarot/reading-tarot/meditation-groundwork/)**.**
 
 ****

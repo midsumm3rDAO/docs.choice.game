@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 🧘🏻‍♀️ No bias == balance
+# 🎈 Magick vs. bias
 
 ###
 
