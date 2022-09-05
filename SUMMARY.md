@@ -81,7 +81,7 @@
           * [On-chain storage](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/on-chain-storage.md)
         * [🪙 Cryptocurrencies](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptocurrencies/README.md)
           * [Ethereum](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/ethereum.md)
-          * [Fungible tokens](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptocurrencies/fungible-tokens.md)
+          * [Fungible tokens](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/stablecoins.md)
           * [Stablecoins](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptocurrencies/stablecoins.md)
           * [Non-fungible tokens](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptocurrencies/non-fungible-tokens.md)
         * [✨ DAOs](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/daos.md)
