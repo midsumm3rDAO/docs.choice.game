@@ -10,7 +10,7 @@ layout: editorial
 
 ### <mark style="color:purple;">being backed to a corner</mark>
 
-### <mark style="color:purple;">what is worth to fight for</mark>&#x20;
+### <mark style="color:purple;">what is worth fighting for</mark>&#x20;
 
 ### <mark style="color:purple;">protecting territory</mark>
 
