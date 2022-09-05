@@ -8,9 +8,13 @@ layout: editorial
 
 
 
-### <mark style="color:purple;">emotional balance</mark>&#x20;
+### <mark style="color:purple;">a boss or reliable leader</mark>&#x20;
 
-### <mark style="color:purple;">rationalizing emotions</mark>
+### <mark style="color:purple;">grounded</mark>&#x20;
+
+### <mark style="color:purple;">logical</mark>&#x20;
+
+### <mark style="color:purple;">wealth</mark>
 
 <mark style="color:purple;"></mark>
 

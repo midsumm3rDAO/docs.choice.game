@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 🖤 The artist's tool
+# 🖤 A gps tool for players
 
 
 

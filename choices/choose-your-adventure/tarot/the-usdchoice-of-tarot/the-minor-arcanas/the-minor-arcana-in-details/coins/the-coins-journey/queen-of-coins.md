@@ -6,15 +6,11 @@ layout: editorial
 
 
 
-### <mark style="color:purple;">intuition</mark>&#x20;
+### <mark style="color:purple;">giver</mark>&#x20;
 
-### <mark style="color:purple;">empath</mark>
+### <mark style="color:purple;">comfortable and wealth person</mark>&#x20;
 
-### <mark style="color:purple;">psychic tendencies</mark>
-
-### <mark style="color:purple;">overwhelming emotions</mark>
-
-### <mark style="color:purple;">balancing intuition to reality</mark>
+### <mark style="color:purple;">advanced spirituality</mark>
 
 <mark style="color:purple;"></mark>
 

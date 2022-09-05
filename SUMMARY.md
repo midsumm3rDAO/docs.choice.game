@@ -249,7 +249,7 @@
   * [🔎 𝚃𝚊𝚛𝚘𝚝](choices/choose-your-adventure/tarot/README.md)
     * [The $CHOICE of Tarot](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/README.md)
       * [🤎 Tarot origins](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/tarot-in-history/README.md)
-        * [🖤 A gps tool for players](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/tarot-in-history/a-gps-tool-for-players.md)
+        * [🖤 A gps tool for players](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/tarot-in-history/the-artists-tool.md)
         * [❤️‍🔥 The tool for the self](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/tarot-in-history/the-tool-for-the-self.md)
         * [🪄 Tarocchi di Marsiglia](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/tarot-in-history/tarocchi-di-marsiglia.md)
         * [🪄 𝚃𝚊𝚛𝚘𝚌𝚌𝚘 𝚍𝚒 𝙳𝚎𝚕𝚕𝚊 𝚁𝚘𝚌𝚌𝚊](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/tarot-in-history/undefined.md)

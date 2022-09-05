@@ -6,7 +6,7 @@ layout: editorial
 
 ### <mark style="color:purple;"></mark>
 
-### <mark style="color:purple;">seductive</mark>
+### <mark style="color:purple;">seduction</mark>
 
 ### <mark style="color:purple;">voicing your opinion</mark>&#x20;
 
