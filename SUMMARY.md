@@ -426,7 +426,7 @@
               * [VII of Coins](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/the-minor-arcanas/the-minor-arcana-in-details/coins/the-coins-journey/vii-of-coins.md)
               * [VIII of Coins](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/the-minor-arcanas/the-minor-arcana-in-details/coins/the-coins-journey/viii-of-coins.md)
               * [IX of Coins](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/the-minor-arcanas/the-minor-arcana-in-details/coins/the-coins-journey/ix-of-coins.md)
-              * [X of Swords](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/the-minor-arcanas/the-minor-arcana-in-details/coins/the-coins-journey/x-of-swords.md)
+              * [X of Coins](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/the-minor-arcanas/the-minor-arcana-in-details/coins/the-coins-journey/x-of-coins.md)
               * [Page of Coins](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/the-minor-arcanas/the-minor-arcana-in-details/coins/the-coins-journey/page-of-coins.md)
               * [Knight of Coins](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/the-minor-arcanas/the-minor-arcana-in-details/coins/the-coins-journey/knight-of-coins.md)
               * [Queen of Coins](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/the-minor-arcanas/the-minor-arcana-in-details/coins/the-coins-journey/queen-of-coins.md)

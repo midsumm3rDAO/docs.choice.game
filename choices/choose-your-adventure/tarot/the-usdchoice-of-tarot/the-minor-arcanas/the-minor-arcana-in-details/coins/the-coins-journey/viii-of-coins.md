@@ -6,12 +6,12 @@ layout: editorial
 
 ###
 
-### <mark style="color:purple;">new opportunities coming</mark>&#x20;
+### <mark style="color:purple;">time to master</mark>
 
-### <mark style="color:purple;">new openings</mark>&#x20;
+### <mark style="color:purple;">hard work pays off</mark>
 
-### <mark style="color:purple;">news on money or resources</mark>
+### <mark style="color:purple;">need to focus on work</mark>&#x20;
 
-<mark style="color:purple;"></mark>
+### <mark style="color:purple;">working too much</mark>
 
 <mark style="color:purple;"></mark>
