@@ -1,0 +1,6 @@
+---
+layout: editorial
+---
+
+# 💙 Reading Tarot
+
