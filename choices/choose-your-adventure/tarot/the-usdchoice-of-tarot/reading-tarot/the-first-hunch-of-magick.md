@@ -6,9 +6,13 @@ layout: editorial
 
 
 
-### _<mark style="color:purple;">"Magick is the science and art of causing change</mark>_&#x20;
+### _<mark style="color:purple;">"Magick is the science and</mark>_&#x20;
 
-### _<mark style="color:purple;">to occur in conformity with the Will."</mark>_
+### _<mark style="color:purple;">art of causing change</mark>_&#x20;
+
+### _<mark style="color:purple;">to occur in conformity</mark>_
+
+### _<mark style="color:purple;">with the will."</mark>_
 
 
 

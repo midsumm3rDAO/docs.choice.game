@@ -6,7 +6,7 @@ layout: editorial
 
 
 
-### <mark style="color:purple;">The Thoth Tarot deck was designed by Aleister Crowley and painted by Lady Frieda Harris.</mark>
+### <mark style="color:purple;">The</mark> <mark style="color:orange;">Thoth Tarot deck</mark> <mark style="color:purple;">was designed by Aleister Crowley and painted by Lady Frieda Harris.</mark>
 
 <mark style="color:red;"></mark>
 
