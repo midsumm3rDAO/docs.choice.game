@@ -4,7 +4,7 @@ layout: editorial
 
 # 🧱⛓ Cryptonetworks
 
-### <mark style="color:purple;">**Cryptonetworks**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">are state machines that are</mark>&#x20;
+### <mark style="color:orange;">**Cryptonetworks**</mark> <mark style="color:purple;">are state machines that are</mark>&#x20;
 
 ### <mark style="color:purple;">instantiated with a genesis state and</mark>&#x20;
 
