@@ -4,6 +4,8 @@ layout: editorial
 
 # 🪄 Meanings for the Sun
 
+### <mark style="color:purple;"></mark>
+
 ### <mark style="color:purple;">glory</mark>&#x20;
 
 ### <mark style="color:purple;">gain</mark>&#x20;
@@ -21,3 +23,5 @@ layout: editorial
 ### <mark style="color:purple;">arrogance</mark>&#x20;
 
 ### <mark style="color:purple;">vanity</mark>
+
+<mark style="color:purple;"></mark>

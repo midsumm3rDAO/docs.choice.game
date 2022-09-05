@@ -4,6 +4,8 @@ layout: editorial
 
 # 🪄 Meanings for The World
 
+### <mark style="color:purple;"></mark>
+
 ### <mark style="color:purple;">success</mark>
 
 ### <mark style="color:purple;">achievement</mark>

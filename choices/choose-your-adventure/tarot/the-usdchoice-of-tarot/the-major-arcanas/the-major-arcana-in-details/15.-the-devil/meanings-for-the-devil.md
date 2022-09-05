@@ -1,8 +1,11 @@
 ---
+description: The card representing the Capricorn archetype.
 layout: editorial
 ---
 
 # 🪄 Meanings for the Devil
+
+### <mark style="color:purple;"></mark>
 
 ### <mark style="color:purple;">blind impulse</mark>&#x20;
 
@@ -19,3 +22,5 @@ layout: editorial
 ### <mark style="color:purple;">hard work</mark>&#x20;
 
 ### <mark style="color:purple;">endurance</mark>&#x20;
+
+<mark style="color:purple;"></mark>

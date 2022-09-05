@@ -4,6 +4,8 @@ layout: editorial
 
 # 🪄 Meanings for the Judgement
 
+### <mark style="color:purple;"></mark>
+
 ### <mark style="color:purple;">absolution</mark>&#x20;
 
 ### <mark style="color:purple;">rebirth</mark>&#x20;
@@ -15,3 +17,5 @@ layout: editorial
 ### <mark style="color:purple;">purpose</mark>&#x20;
 
 ### <mark style="color:purple;">reflection</mark>
+
+<mark style="color:purple;"></mark>

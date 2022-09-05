@@ -1,8 +1,11 @@
 ---
+description: '"as above, so below"'
 layout: editorial
 ---
 
 # 🪄 Meanings for The Magickian
+
+### <mark style="color:purple;"></mark>
 
 ### <mark style="color:purple;">skills</mark>&#x20;
 
@@ -15,3 +18,5 @@ layout: editorial
 ### <mark style="color:purple;">magickal powers</mark>&#x20;
 
 ### <mark style="color:purple;">business transactions</mark>
+
+<mark style="color:purple;"></mark>

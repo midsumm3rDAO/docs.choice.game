@@ -4,6 +4,8 @@ layout: editorial
 
 # 🪄 Meanings for The High Priestess
 
+### <mark style="color:purple;"></mark>
+
 ### <mark style="color:purple;">purity</mark>
 
 ### <mark style="color:purple;">intuition</mark>
@@ -19,3 +21,5 @@ layout: editorial
 ### <mark style="color:purple;">exuberance tempered</mark>
 
 ### <mark style="color:purple;">careful balance</mark>
+
+<mark style="color:purple;"></mark>

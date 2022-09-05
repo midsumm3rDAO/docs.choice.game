@@ -1,4 +1,5 @@
 ---
+description: The card representing the Scorpio archetype.
 layout: editorial
 ---
 

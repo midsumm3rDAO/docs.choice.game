@@ -4,6 +4,8 @@ layout: editorial
 
 # 🪄 Meanings for the Empress
 
+### <mark style="color:purple;"></mark>
+
 ### <mark style="color:purple;">love</mark>
 
 ### <mark style="color:purple;">beauty</mark>
@@ -21,3 +23,5 @@ layout: editorial
 ### <mark style="color:purple;">sensuality</mark>
 
 ### <mark style="color:purple;">elegance</mark>
+
+<mark style="color:purple;"></mark>

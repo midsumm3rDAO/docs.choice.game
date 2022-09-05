@@ -1,8 +1,11 @@
 ---
+description: The card representing the Virgo archetype.
 layout: editorial
 ---
 
 # 🪄 Meanings for the Hermit
+
+### <mark style="color:purple;"></mark>
 
 ### <mark style="color:purple;">illumination from within</mark>&#x20;
 
@@ -15,3 +18,5 @@ layout: editorial
 ### <mark style="color:purple;">retirement</mark>&#x20;
 
 ### <mark style="color:purple;">isolation</mark>
+
+<mark style="color:purple;"></mark>

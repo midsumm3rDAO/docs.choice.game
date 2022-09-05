@@ -4,6 +4,8 @@ layout: editorial
 
 # 🪄 Meanings for the Tower
 
+### <mark style="color:purple;"></mark>
+
 ### <mark style="color:purple;">quarrel</mark>&#x20;
 
 ### <mark style="color:purple;">combat</mark>&#x20;
@@ -17,3 +19,5 @@ layout: editorial
 ### <mark style="color:purple;">revelation</mark>&#x20;
 
 ### <mark style="color:purple;">personal transformation</mark>
+
+<mark style="color:purple;"></mark>

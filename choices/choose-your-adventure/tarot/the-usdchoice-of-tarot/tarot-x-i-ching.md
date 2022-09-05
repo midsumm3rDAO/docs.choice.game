@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 🖤 Tarot x I Ching
+# 🖤 Tarot and I Ching
 
 
 

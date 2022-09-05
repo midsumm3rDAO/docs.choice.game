@@ -1,8 +1,11 @@
 ---
+description: The card representing the Gemini archetype.
 layout: editorial
 ---
 
 # 🪄 Meanings for the Lovers
+
+<mark style="color:purple;"></mark>
 
 ### <mark style="color:purple;">inspiration</mark>&#x20;
 
@@ -19,3 +22,5 @@ layout: editorial
 ### <mark style="color:purple;">instability</mark>&#x20;
 
 ### <mark style="color:purple;">indecision</mark>
+
+<mark style="color:purple;"></mark>

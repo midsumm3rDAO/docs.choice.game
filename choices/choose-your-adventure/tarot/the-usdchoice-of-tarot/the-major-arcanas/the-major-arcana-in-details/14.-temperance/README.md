@@ -1,4 +1,5 @@
 ---
+description: The card representing the Sagittarius archetype.
 layout: editorial
 ---
 

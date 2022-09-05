@@ -1,8 +1,11 @@
 ---
+description: The card representing the Cancer archetype.
 layout: editorial
 ---
 
 # 🪄 Meanings for the Chariot
+
+### <mark style="color:purple;"></mark>
 
 ### <mark style="color:purple;">triumph</mark>&#x20;
 
@@ -18,4 +21,8 @@ layout: editorial
 
 ### <mark style="color:purple;">success</mark>&#x20;
 
-### <mark style="color:purple;">departure from traditional ideas</mark>
+### <mark style="color:purple;">departure from traditional ideas</mark>&#x20;
+
+### <mark style="color:purple;">control of dualities</mark>
+
+<mark style="color:purple;"></mark>

@@ -1,8 +1,11 @@
 ---
+description: The card representing Taurus archetype.
 layout: editorial
 ---
 
 # 🪄 Meanings for The Hierophant
+
+### <mark style="color:purple;"></mark>
 
 ### <mark style="color:purple;">divine</mark>&#x20;
 
@@ -18,4 +21,6 @@ layout: editorial
 
 ### <mark style="color:purple;">teaching</mark>&#x20;
 
-### <mark style="color:purple;">institution</mark>&#x20;
+### <mark style="color:purple;">institution</mark>
+
+### &#x20;<mark style="color:purple;"></mark>&#x20;

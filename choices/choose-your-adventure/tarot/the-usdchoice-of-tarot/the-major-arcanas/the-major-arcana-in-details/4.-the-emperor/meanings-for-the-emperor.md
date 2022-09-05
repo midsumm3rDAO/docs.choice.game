@@ -4,6 +4,8 @@ layout: editorial
 
 # 🪄 Meanings for the Emperor
 
+### <mark style="color:purple;"></mark>
+
 ### <mark style="color:purple;">war</mark>
 
 ### <mark style="color:purple;">conquest</mark>
@@ -19,3 +21,5 @@ layout: editorial
 ### <mark style="color:purple;">ambition</mark>&#x20;
 
 ### <mark style="color:purple;">arrogance</mark>
+
+<mark style="color:purple;"></mark>
