@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 🧚🏼‍♀️ Ethereum
+# Ethereum
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 
