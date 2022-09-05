@@ -14,7 +14,7 @@ layout: editorial
 
 <mark style="color:purple;">****</mark>
 
-### When that happens, the player will be searching for [synchronicities](../../a/), **and might not be finding them. **<mark style="color:green;">****</mark>&#x20;
+### When that happens, the player will be searching for [synchronicities](../a/), **and might not be finding them. **<mark style="color:green;">****</mark>&#x20;
 
 ### The player's mind might trick them into believing on what they desire.
 
@@ -34,6 +34,6 @@ layout: editorial
 
 ****
 
-1. **take a break and diligently return to** [**meditation practices**](../../../../tarot/the-usdchoice-of-tarot/reading-tarot/meditation-groundwork/)**;**
-2. **then, work on your** [**shielding**](../../undefined-2/)**.**
+1. **take a break and diligently return to** [**meditation practices**](../../../tarot/the-usdchoice-of-tarot/reading-tarot/meditation-groundwork/)**;**
+2. **then, work on your** [**shielding**](../undefined-2/)**.**
 
