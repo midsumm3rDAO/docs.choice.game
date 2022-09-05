@@ -14,7 +14,9 @@ layout: editorial
 
 ### <mark style="color:green;">stored on a blockchain</mark> <mark style="color:purple;"></mark>&#x20;
 
-### <mark style="color:purple;">that run when predetermined conditions are met.</mark>
+### <mark style="color:purple;">that run when</mark>&#x20;
+
+### <mark style="color:purple;">predetermined conditions are met.</mark>
 
 <mark style="color:purple;"></mark>
 

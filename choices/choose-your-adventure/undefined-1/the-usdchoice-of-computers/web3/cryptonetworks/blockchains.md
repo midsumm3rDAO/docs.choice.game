@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 🧱⛓ Blockchains
+# Blockchains
 
 
 
