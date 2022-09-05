@@ -8,7 +8,9 @@ layout: editorial
 
 ### <mark style="color:purple;"></mark>
 
-### <mark style="color:purple;">The suit of Cups is tied to the elemental force of</mark> <mark style="color:orange;">water</mark><mark style="color:purple;">. It speaks of emotions, introspection, romance, love, and relationships.</mark>
+### <mark style="color:purple;">The suit of Cups is tied to the elemental force of</mark> <mark style="color:orange;">water</mark><mark style="color:purple;">.</mark>&#x20;
+
+### <mark style="color:purple;">It speaks of emotions, introspection, romance, love, and relationships.</mark>
 
 <mark style="color:purple;"></mark>
 
