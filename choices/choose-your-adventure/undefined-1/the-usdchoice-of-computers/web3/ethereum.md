@@ -6,6 +6,10 @@ layout: editorial
 
 
 
+### <mark style="color:green;">Ethereum is a blockchain technology that allows digital money, global payments, and  decentralized applications.</mark> <mark style="color:green;"></mark>_<mark style="color:green;"></mark>_&#x20;
+
+
+
 ### <mark style="color:purple;">In the Ethereum network,</mark> <mark style="color:purple;"></mark>_<mark style="color:purple;">fungible money</mark>_ <mark style="color:purple;"></mark><mark style="color:purple;">is represented by the ERC-20 standard. They are blockchain-based primitives that can</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**hold value and be sent and received**</mark><mark style="color:purple;">.</mark>&#x20;
 
 <mark style="color:purple;"></mark>
@@ -14,7 +18,7 @@ layout: editorial
 
 <mark style="color:green;"></mark>
 
-### <mark style="color:purple;">Fungible tokens can be used for several functions: crowdfunding, voting rights, representation of physical objects, among others.</mark>
+### <mark style="color:purple;"></mark>
 
 <mark style="color:purple;"></mark>
 
