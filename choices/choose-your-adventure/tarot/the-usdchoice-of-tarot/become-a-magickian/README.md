@@ -5,8 +5,6 @@ layout: editorial
 
 # 🫀 Become a magickian
 
-## <mark style="background-color:purple;">Books</mark>
-
 
 
 * ****[**Holistic Tarot, by Benebell Wen**](https://www.amazon.com/Holistic-Tarot-Integrative-Approach-Personal/dp/158394835X)****
