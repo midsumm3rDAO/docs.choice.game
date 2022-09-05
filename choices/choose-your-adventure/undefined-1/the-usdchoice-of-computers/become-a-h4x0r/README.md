@@ -1,5 +1,5 @@
 ---
-description: Resources if you would like learn more. This list is updated periodically.
+description: Moar resources. This list is updated periodically.
 layout: editorial
 ---
 
