@@ -2,6 +2,6 @@
 layout: editorial
 ---
 
-# The air journey
+# The coins journey
 
 <mark style="background-color:orange;"></mark>

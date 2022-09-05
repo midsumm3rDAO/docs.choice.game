@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# VIII of Wands
+# VII of Coins
 
 
 

@@ -6,6 +6,8 @@ layout: editorial
 
 
 
+### <mark style="color:purple;"></mark>
+
 ### <mark style="color:purple;">The suit of Cups is tied to the elemental force of water.</mark>
 
 <mark style="color:purple;"></mark>

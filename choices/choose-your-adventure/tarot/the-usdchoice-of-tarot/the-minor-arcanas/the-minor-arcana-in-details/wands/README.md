@@ -6,6 +6,8 @@ layout: editorial
 
 
 
+### <mark style="color:purple;"></mark>
+
 ### <mark style="color:purple;">The suit of Wands is tied to the elemental force of fire.</mark>
 
 <mark style="color:purple;"></mark>
