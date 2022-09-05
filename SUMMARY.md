@@ -83,6 +83,7 @@
           * [Ethereum](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/ethereum.md)
           * [Fungible tokens](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptocurrencies/fungible-tokens.md)
           * [Stablecoins](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptocurrencies/stablecoins.md)
+          * [Non-fungible tokens](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptocurrencies/non-fungible-tokens.md)
         * [✨ DAOs](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/daos.md)
       * [👨🏾‍💻 Hacking](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/hacking.md)
         * [Hacking as a personal right](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/hacking/hacking-as-a-personal-right.md)
