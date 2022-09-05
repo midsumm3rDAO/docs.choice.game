@@ -2,9 +2,9 @@
 layout: editorial
 ---
 
-# 🦄 Rider–Waite tarot
+# 🦄 The Rider–Waite tarot
 
-### <mark style="color:purple;"></mark>
+<mark style="color:purple;"></mark>
 
 ### <mark style="color:purple;">The Rider–Waite tarot deck was originally published by in 1909, and it's the most popular deck these days.</mark>&#x20;
 

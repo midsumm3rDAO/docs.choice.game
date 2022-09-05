@@ -10,7 +10,11 @@ layout: editorial
 
 <mark style="color:red;"></mark>
 
-### <mark style="color:green;">The original intent was to correct the classic, medieval tarot, giving it a connection to astrology.</mark>
+<figure><img src="../../../../../.gitbook/assets/ddd.jpeg" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;"></mark>
+
+### <mark style="color:green;">The original intent was to correct the classic, medieval tarot, giving it a connection to</mark> [astrology](../../../astrology/the-usdchoice-of-astrology/).
 
 
 
