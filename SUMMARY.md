@@ -78,6 +78,7 @@
         * [🧱⛓ Cryptonetworks](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/blockchains.md)
           * [Blockchains](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/blockchains.md)
           * [Smart contracts](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/smart-contracts.md)
+          * [On-chain storage](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/on-chain-storage.md)
         * [✨ DAOs](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/daos.md)
         * [🪙 Cryptocurrencies](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptocurrencies/README.md)
           * [Ethereum](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/ethereum.md)
