@@ -8,7 +8,9 @@ layout: editorial
 
 ### <mark style="color:purple;"></mark>
 
-### <mark style="color:purple;">The suit of Wands is tied to the elemental force of</mark> <mark style="color:orange;">fire</mark><mark style="color:purple;">. It represents ambition, ego, and drive.</mark>
+### <mark style="color:purple;">The suit of Wands is tied to the elemental force of</mark> <mark style="color:orange;">fire</mark><mark style="color:purple;">.</mark>&#x20;
+
+### <mark style="color:purple;">It represents ambition, ego, and drive.</mark>
 
 <mark style="color:purple;"></mark>
 
