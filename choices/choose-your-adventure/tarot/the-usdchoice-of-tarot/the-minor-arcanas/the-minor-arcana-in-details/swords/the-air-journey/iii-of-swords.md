@@ -6,7 +6,7 @@ layout: editorial
 
 ###
 
-### <mark style="color:purple;">heart break</mark>
+### <mark style="color:purple;">heartbreak</mark>
 
 ### <mark style="color:purple;">hurt from a painful situation</mark>
 
