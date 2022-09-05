@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 🪙 Stablecoins
+# Stablecoins
 
 ### <mark style="color:green;">Stablecoins</mark> <mark style="color:purple;">are</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**cryptocurrencies that**</mark>&#x20;
 
