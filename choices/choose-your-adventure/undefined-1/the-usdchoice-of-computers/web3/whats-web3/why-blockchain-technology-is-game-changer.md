@@ -14,6 +14,8 @@ layout: editorial
 
 <figure><img src="../../../../../../.gitbook/assets/AdpMVFtZ1WJPdYcs54pfy.png" alt=""><figcaption></figcaption></figure>
 
+### <mark style="color:green;"><mark style="color:orange;">****<mark style="color:orange;"></mark>
+
 ### <mark style="color:green;"><mark style="color:orange;">**Web3 architecture is decentralized by design**<mark style="color:orange;"></mark><mark style="color:green;"><mark style="color:orange;">: blockchains are peer-to-peer networks.<mark style="color:orange;"></mark> <mark style="color:green;"><mark style="color:orange;"> </mark><mark style="color:green;"><mark style="color:orange;">**Blockchain trade technical scalability for social scalability.**<mark style="color:orange;"></mark> <mark style="color:green;"><mark style="color:orange;"> </mark><mark style="color:green;"><mark style="color:orange;">In this new paradigm, validators are incentivized to keep the network impartial. There is no single point of failure, and each client node owns its data.<mark style="color:orange;"></mark>
 
 <figure><img src="../../../../../../.gitbook/assets/zVSKGKQKyHkL0Tc3YSQJE.png" alt=""><figcaption></figcaption></figure>
