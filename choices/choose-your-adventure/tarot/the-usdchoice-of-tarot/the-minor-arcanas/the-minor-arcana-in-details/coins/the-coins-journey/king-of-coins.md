@@ -14,7 +14,7 @@ layout: editorial
 
 ### <mark style="color:purple;">logical</mark>&#x20;
 
-### <mark style="color:purple;">wealth</mark>
+### <mark style="color:purple;">wealthy</mark>
 
 <mark style="color:purple;"></mark>
 

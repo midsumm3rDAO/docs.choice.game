@@ -8,7 +8,9 @@ layout: editorial
 
 ### <mark style="color:purple;"></mark>
 
-### <mark style="color:purple;">The suit of Coins is tied to the elemental force of</mark> <mark style="color:orange;">earth</mark><mark style="color:purple;">. It touches the themes of stability, possessions, health, money, and spirituality.</mark>
+### <mark style="color:purple;">The suit of Coins is tied to the elemental force of</mark> <mark style="color:orange;">earth</mark><mark style="color:purple;">.</mark>&#x20;
+
+### <mark style="color:purple;">It touches the themes of stability, possessions, health, money, and spirituality.</mark>
 
 <mark style="color:purple;"></mark>
 
