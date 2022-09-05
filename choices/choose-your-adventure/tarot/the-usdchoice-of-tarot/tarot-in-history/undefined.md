@@ -12,7 +12,7 @@ layout: editorial
 
 <figure><img src="../../../../../.gitbook/assets/Rider-Waite-Smith_deck-213d7571db434c06b4a8e33c3e67123e.webp" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:purple;">The deck has been published in numerous editions and inspired a wide array of variants and imitations.</mark>
+### <mark style="color:purple;">The deck has been published in numerous editions and inspired various variants and imitations.</mark>
 
 <mark style="color:purple;"></mark>
 
