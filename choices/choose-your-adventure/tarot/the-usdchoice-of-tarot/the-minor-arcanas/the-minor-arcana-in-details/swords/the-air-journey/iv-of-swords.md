@@ -14,7 +14,7 @@ layout: editorial
 
 ### <mark style="color:purple;">taking time to yourself</mark>&#x20;
 
-### <mark style="color:purple;">sleep</mark>
+### <mark style="color:purple;">finding a safe place</mark>
 
 <mark style="color:purple;"></mark>
 
