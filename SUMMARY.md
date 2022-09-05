@@ -74,6 +74,7 @@
       * [👩🏿‍💻 Web3](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/README.md)
         * [👩🏽‍💻 What's web3](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/whats-web3/README.md)
           * [A new web paradigm](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/whats-web3/a-new-web-paradigm.md)
+          * [Why blockchain technology is game-changer](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/whats-web3/why-blockchain-technology-is-game-changer.md)
         * [🧱⛓ Cryptonetworks](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/README.md)
           * [Blockchains](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/blockchains.md)
           * [Smart contracts](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/smart-contracts.md)
