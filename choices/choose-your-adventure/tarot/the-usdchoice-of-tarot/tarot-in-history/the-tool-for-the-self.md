@@ -6,7 +6,7 @@ layout: editorial
 
 
 
-### <mark style="color:green;">The player is the only master of their reality in the game.</mark>
+### <mark style="color:green;">The player is the only master of their reality in the game of $CHOICES.</mark>
 
 <mark style="color:green;"></mark>
 
