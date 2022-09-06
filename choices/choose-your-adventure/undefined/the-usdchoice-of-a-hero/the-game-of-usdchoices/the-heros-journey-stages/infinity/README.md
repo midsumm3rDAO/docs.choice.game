@@ -1,9 +1,9 @@
 ---
-description: Defeat the Lovers.
+description: Defeat the Moon.
 layout: editorial
 ---
 
-# 😱 𝟹. 𝚃𝚑𝚎𝚛𝚎 𝚒𝚜 𝚙𝚎𝚘𝚙𝚕𝚎 𝚊𝚕𝚕 𝚊𝚛𝚘𝚞𝚗𝚍.
+# 😱 ∞ Am I infinite?
 
 
 
