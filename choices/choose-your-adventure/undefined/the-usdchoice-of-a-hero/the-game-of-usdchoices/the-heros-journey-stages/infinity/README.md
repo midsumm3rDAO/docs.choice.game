@@ -3,7 +3,7 @@ description: Defeat the Moon.
 layout: editorial
 ---
 
-# 😱 ∞ Am I infinite?
+# 😱 ∞ 𝙰𝚖 𝙸 𝚒𝚗𝚏𝚒𝚗𝚒𝚝𝚎?
 
 
 

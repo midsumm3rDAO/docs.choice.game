@@ -1,11 +1,11 @@
 ---
 description: >-
-  GMW is a selection of classical and contemporary artistic influences at
-  Midsummer ArtFilm Academy. This list is updated periodically.
+  GMWM is a selection of classical and contemporary artistic influences at
+  midsumm3r. This list is updated periodically.
 layout: editorial
 ---
 
-# 🧞‍♀️ 𝙶𝚗𝚊𝚛𝚕𝚒𝚎𝚜𝚝 𝙼𝚊𝚐𝚒𝚌𝚒𝚊𝚗 𝚆𝚛𝚒𝚝𝚎𝚛𝚜 by MAA
+# 🧞‍♀️ 𝙶𝚗𝚊𝚛𝚕𝚒𝚎𝚜𝚝 𝙼𝚊𝚐𝚒𝚌𝚒𝚊𝚗 𝚆𝚛𝚒𝚝𝚎𝚛𝚜 by midsumm3r
 
 ## <mark style="background-color:green;">Non-fiction</mark>
 

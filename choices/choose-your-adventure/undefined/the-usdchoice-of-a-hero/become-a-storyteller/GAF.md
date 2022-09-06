@@ -1,11 +1,11 @@
 ---
 description: >-
-  GAF is a selection of classical and contemporary artistic influences at
-  Midsummer ArtFilm Academy. This list is updated periodically.
+  GAFM is a selection of classical and contemporary artistic influences at
+  midsumm3r. This list is updated periodically.
 layout: editorial
 ---
 
-# 🎞 𝙶𝚗𝚊𝚛𝚕𝚒𝚎𝚜𝚝 𝙰𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎𝚜 𝚘𝚗 𝙵𝚒𝚕𝚖 by MAA
+# 🎞 𝙶𝚗𝚊𝚛𝚕𝚒𝚎𝚜𝚝 𝙰𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎𝚜 𝚘𝚗 𝙵𝚒𝚕𝚖 by midsumm3r
 
 * Midsommar
 * Pulp Fiction

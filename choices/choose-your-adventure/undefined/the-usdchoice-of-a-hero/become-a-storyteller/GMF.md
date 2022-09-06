@@ -1,11 +1,11 @@
 ---
 description: >-
-  GMF is a selection of classical and contemporary artistic influences at
-  Midsummer ArtFilm Academy. This list is updated periodically.
+  GMFM is a selection of classical and contemporary artistic influences at
+  midsumm3r. This list is updated periodically.
 layout: editorial
 ---
 
-# 🛸 𝙶𝚗𝚊𝚛𝚕𝚒𝚎𝚜𝚝 𝙼𝚊𝚐𝚒𝚌𝚒𝚊𝚗 𝙵𝚒𝚕𝚖𝚖𝚊𝚔𝚎𝚛𝚜 by MAA
+# 🛸 𝙶𝚗𝚊𝚛𝚕𝚒𝚎𝚜𝚝 𝙼𝚊𝚐𝚒𝚌𝚒𝚊𝚗 𝙵𝚒𝚕𝚖𝚖𝚊𝚔𝚎𝚛𝚜 by midsumm3r
 
 * David Lynch
 * Ari Aster
