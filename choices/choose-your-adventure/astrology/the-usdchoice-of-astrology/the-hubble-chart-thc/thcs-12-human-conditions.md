@@ -10,6 +10,6 @@ layout: editorial
 
 <mark style="color:purple;"></mark>
 
-### <mark style="color:green;">**Looking at THC in the context of the**</mark> [hero's journey](../../../undefined/the-usdchoice-of-a-hero/whats-a-heros-journey/) <mark style="color:green;">**narrative: each of these 12 loci is one of the**</mark> [12 adventures](<../../../undefined/the-usdchoice-of-a-hero/the-game-of-usdchoices/the-heros-journey-archetypes/README (1).md>)<mark style="color:green;">**, leveling up counterclockwise from the**</mark>[ first locus (town)](../../../undefined/the-usdchoice-of-a-hero/the-game-of-usdchoices/the-heros-journey-archetypes/.-..md)<mark style="color:green;">**.**</mark>
+### <mark style="color:green;">**Looking at THC in the context of the**</mark> [hero's journey](../../../undefined/the-usdchoice-of-a-hero/whats-a-heros-journey/) <mark style="color:green;">**narrative: each of these 12 loci is one of the**</mark> [12 adventures](../../../undefined/the-usdchoice-of-a-hero/the-game-of-usdchoices/the-heros-journey-archetypes/)<mark style="color:green;">**, leveling up counterclockwise from the**</mark>[ first locus (town)](../../../undefined/the-usdchoice-of-a-hero/the-game-of-usdchoices/the-heros-journey-archetypes/.-..md)<mark style="color:green;">**.**</mark>
 
 ### <mark style="color:green;">****</mark>
