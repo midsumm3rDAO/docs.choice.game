@@ -243,7 +243,7 @@
         * [Looking at Jupiter](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/generating-fortune-through-transits/looking-at-jupiter.md)
         * [Looking at the North Node](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/generating-fortune-through-transits/looking-at-the-north-node.md)
         * [🔮 Predictions in the wild](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/generating-fortune-through-transits/making-predictions/README.md)
-          * [2022; August by Papeza](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/generating-fortune-through-transits/making-predictions/2022-august-by-papeza.md)
+          * [2022; August](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/generating-fortune-through-transits/making-predictions/2022-august.md)
       * [🧙🏽 Become an astrologer](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/become-an-astrologer/README.md)
         * [🏆 You won this adventure!](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/become-an-astrologer/you-won-this-adventure.md)
   * [🔎 𝚃𝚊𝚛𝚘𝚝](choices/choose-your-adventure/tarot/README.md)
