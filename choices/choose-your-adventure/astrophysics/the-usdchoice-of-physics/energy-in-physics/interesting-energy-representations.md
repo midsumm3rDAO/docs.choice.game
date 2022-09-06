@@ -49,6 +49,6 @@ $$
 <mark style="background-color:orange;">​</mark>
 
 {% hint style="info" %}
-Attentive readers with an Astrology background will notice the similarity between the Planck Constant (one of the pillars of the hard science of Quantum Mechanics) and Saturn's mythological symbol. Dr. Max Planck was a magician as well.
+Attentive readers with an Astrology background will notice the similarity between the Planck Constant (one of the pillars of the hard science of Quantum Mechanics) and Saturn's symbol. Dr. Max Planck was a magician as well.
 {% endhint %}
 

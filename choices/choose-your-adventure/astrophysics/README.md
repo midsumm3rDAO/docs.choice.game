@@ -1,5 +1,5 @@
 ---
-description: Predicting thing precisely with math.
+description: Predicting the future precisely with math.
 layout: editorial
 ---
 
