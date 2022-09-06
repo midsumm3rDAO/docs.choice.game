@@ -19,7 +19,7 @@ layout: editorial
 
 
 
-* [Autobiography of a Yogi, by Paramahansa Yogananda](https://www.amazon.com/Autobiography-Self-Realization-Fellowship-Paramahansa-Yogananda/dp/0876120796) (the only book Steve Jobs had in his iPad).
+* ****[**Autobiography of a Yogi, by Paramahansa Yogananda**](https://www.amazon.com/Autobiography-Self-Realization-Fellowship-Paramahansa-Yogananda/dp/0876120796) **(the only book Steve Jobs had in his iPad).**
 
 
 

@@ -1,9 +1,9 @@
 ---
-description: 'Join us today: midsummer.party/join'
+description: 'Join today: midsumm3r.xyz/join'
 layout: editorial
 ---
 
-# 🔬 MAA Research
+# 🔬 midsumm3r Research
 
 <mark style="background-color:green;"></mark>
 

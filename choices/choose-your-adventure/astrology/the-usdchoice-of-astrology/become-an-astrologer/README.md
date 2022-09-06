@@ -1,8 +1,7 @@
 ---
 description: >-
   Resources to learn how to understand the underlying algorithm on the
-  correlation level. This list is updated periodically. This list is updated
-  periodically.
+  correlation level. This list is updated periodically.
 layout: editorial
 ---
 

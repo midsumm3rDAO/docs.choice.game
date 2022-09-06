@@ -575,7 +575,7 @@
               * [Developing 𝙲𝚞𝚛𝚟𝚊𝚝𝚞𝚛𝚊 𝚍𝚎𝚕 𝚝𝚎𝚖𝚙𝚘](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-3/superpowers-and-free-will/superpowers-seen-in-the-wild/.-time-curving/developing.md)
             * [𝚅𝙸𝙸𝙸. 𝙴𝚕𝚒𝚜𝚒𝚛 𝚍𝚒 𝚟𝚒𝚝𝚊 (Elixir of life)](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-3/superpowers-and-free-will/superpowers-seen-in-the-wild/.-elixir-of-life/README.md)
               * [Developing 𝙴𝚕𝚒𝚜𝚒𝚛 𝚍𝚒 𝚟𝚒𝚝𝚊](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-3/superpowers-and-free-will/superpowers-seen-in-the-wild/.-elixir-of-life/developing.md)
-          * [🔬 MAA Research](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-3/superpowers-and-free-will/maa-research.md)
+          * [🔬 midsumm3r Research](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-3/superpowers-and-free-will/midsumm3r-research.md)
       * [🐝 𝚃𝚎𝚘𝚛𝚒𝚊 𝚍𝚎𝚒 𝚐𝚛𝚞𝚙𝚙𝚒](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-4/README.md)
         * [3️⃣ 𝙻𝚎 𝚝𝚛𝚒𝚙𝚕𝚒𝚌𝚒𝚝à (triplicity)](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-4/3-a-triplicity.md)
         * [4️⃣ 𝙸 𝚚𝚞𝚊𝚝𝚝𝚛𝚘 𝚎𝚕𝚎𝚖𝚎𝚗𝚝𝚒 (the four elements)](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-4/the-four-elements/README.md)

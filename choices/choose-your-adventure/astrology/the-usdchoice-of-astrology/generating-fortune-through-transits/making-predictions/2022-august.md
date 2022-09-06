@@ -3,7 +3,7 @@ description: by Papeza
 layout: editorial
 ---
 
-# 2022; August by Papeza
+# 2022; August
 
 ## 08/02: a generational <mark style="color:green;">**conjunction of Uranus + Mars + the North Node**</mark> at 18 degrees, in Taurus.
 

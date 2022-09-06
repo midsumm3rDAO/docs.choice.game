@@ -1,5 +1,5 @@
 ---
-description: Superpower research is a subdivision of the MAA.
+description: Superpower research is a subdivision at midsumm3r.
 layout: editorial
 ---
 
