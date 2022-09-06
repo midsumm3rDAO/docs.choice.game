@@ -1,9 +1,9 @@
 ---
-description: The Fool is back.
+description: The first town, ruled by the Emperor.
 layout: editorial
 ---
 
-# 🤡 𝟶. 𝙿𝚕𝚊𝚢 𝚊𝚐𝚊𝚒𝚗?
+# 🤡 𝙳𝚘 𝚢𝚘𝚞 𝚊𝚌𝚌𝚎𝚙𝚝 𝚝𝚑𝚎 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎?
 
 
 
