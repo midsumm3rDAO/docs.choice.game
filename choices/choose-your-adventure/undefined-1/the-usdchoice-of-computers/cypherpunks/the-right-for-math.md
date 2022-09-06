@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 🏴‍☠️ The right for math
+# ➗ The right for math
 
 
 

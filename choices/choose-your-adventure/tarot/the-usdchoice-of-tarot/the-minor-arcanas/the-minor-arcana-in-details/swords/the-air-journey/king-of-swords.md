@@ -6,7 +6,7 @@ layout: editorial
 
 ###
 
-### <mark style="color:purple;">what's right might not be always the easiest</mark>
+### <mark style="color:purple;">what's right might not always be the easiest</mark>
 
 ### <mark style="color:purple;">a very justice-centered influence</mark>
 

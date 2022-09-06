@@ -6,7 +6,7 @@ layout: editorial
 
 ###
 
-### <mark style="color:purple;">trapped or stuck to a situation</mark>
+### <mark style="color:purple;">trapped or stuck in a situation</mark>
 
 ### <mark style="color:purple;">the problem is in the mind, not outside</mark>
 
