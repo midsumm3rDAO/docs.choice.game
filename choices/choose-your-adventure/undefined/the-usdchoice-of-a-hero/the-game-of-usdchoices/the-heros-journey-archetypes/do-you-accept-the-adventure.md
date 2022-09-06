@@ -1,9 +1,9 @@
 ---
-description: The first town, ruled by the Emperor.
+description: with the Fool.
 layout: editorial
 ---
 
-# 🤡 𝙳𝚘 𝚢𝚘𝚞 𝚊𝚌𝚌𝚎𝚙𝚝 𝚝𝚑𝚎 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎?
+# 🤡 Do you accept the adventure?
 
 
 
