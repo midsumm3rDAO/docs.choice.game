@@ -178,6 +178,7 @@ layout: editorial
 * Bob Marley
 * B.B. King
 * Neil Young
+* Blockhead
 * ZZ Top
 * Sex Pistols
 * Guns N’ Roses
