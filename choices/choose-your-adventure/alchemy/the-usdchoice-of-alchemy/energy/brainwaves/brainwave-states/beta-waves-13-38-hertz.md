@@ -6,7 +6,7 @@ layout: editorial
 
 
 
-### <mark style="color:purple;">These frequencies are seen when a player is awake and alert.</mark>&#x20;
+### <mark style="color:purple;">These frequencies are seen when a player is</mark> <mark style="color:orange;">awake and alert</mark><mark style="color:purple;">.</mark>&#x20;
 
 
 
