@@ -132,6 +132,7 @@ layout: editorial
 * The Clash
 * Nas
 * Muse
+* Incubus
 * Don Caballero
 * The Notorious B.I.G.
 * Soundgarden
