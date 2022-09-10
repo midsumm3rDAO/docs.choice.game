@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# Delta brainwaves (1-3 hertz)
+# 𝚫 Delta brainwaves (1-3 hertz)
 
 <mark style="background-color:orange;"></mark>
 

@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# Gamma waves (39-42 hertz)
+# 𝚪 Gamma waves (39-42 hertz)
 
 <mark style="background-color:orange;"></mark>
 

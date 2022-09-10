@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# Beta waves (13-38 hertz)
+# β Beta waves (13-38 hertz)
 
 
 

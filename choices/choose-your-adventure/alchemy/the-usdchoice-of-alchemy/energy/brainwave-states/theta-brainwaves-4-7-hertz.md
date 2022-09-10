@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# Theta brainwaves (4-7 hertz)
+# 𝚯 Theta brainwaves (4-7 hertz)
 
 <mark style="background-color:orange;"></mark>
 

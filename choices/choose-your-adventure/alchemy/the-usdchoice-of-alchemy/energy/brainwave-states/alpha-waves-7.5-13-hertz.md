@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# Alpha waves (7.5-13 hertz)
+# ⍺ Alpha waves (7.5-13 hertz)
 
 <mark style="background-color:orange;"></mark>
 

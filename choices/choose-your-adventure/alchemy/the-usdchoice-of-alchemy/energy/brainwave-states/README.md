@@ -2,6 +2,6 @@
 layout: editorial
 ---
 
-# 📡 Brainwaves
+# 📡 Brainwave states
 
 <mark style="color:purple;"></mark>
