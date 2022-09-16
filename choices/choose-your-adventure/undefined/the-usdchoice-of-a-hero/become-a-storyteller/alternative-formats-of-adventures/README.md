@@ -164,6 +164,7 @@ layout: editorial
 * Big Sean
 * Lorde
 * The Strokes
+* Pierce The Veil
 * Beasties Boys
 * Queen
 * Eric Clapton

@@ -19,6 +19,7 @@ layout: editorial
 * Fight Club
 * Donnie Darko
 * Reservoir Dogs
+* Everything Everywhere All at Once
 * Stranger than Paradise
 * Waking Life
 * Taxi Driver
