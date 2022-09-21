@@ -15,6 +15,7 @@ layout: editorial
 * [**Awesome Tokenomics and DAOs**](https://github.com/bt3gl-labs/Awesome-DAOs)
 * [**Understanding stablecoins**](https://www.investopedia.com/terms/s/stablecoin.asp)****
 * [**Advanced DeFi, by CoinGecko**](https://store.coingecko.com/products/how-to-defi-advanced)****
+* ****[**Finematics Videos**](https://www.youtube.com/c/Finematics)****
 
 ****
 
