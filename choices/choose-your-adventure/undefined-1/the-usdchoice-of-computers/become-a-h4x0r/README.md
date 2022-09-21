@@ -35,8 +35,8 @@ layout: editorial
 
 
 
-* ****[**Introduction to Algorithms by Thomas H. Corman**](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)****
-* ****[**The Algorithm Design Manual by Steve S. Skiena**](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)****
+* ****[**Introduction to Algorithms, by Thomas H. Corman**](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)****
+* ****[**The Algorithm Design Manual, by Steve S. Skiena**](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)****
 * ****[**Python and Algorithms, by bt3gl**](https://github.com/bt3gl-labs/Book-on-Python-and-Algorithms)****
 
 ****
