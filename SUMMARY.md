@@ -54,6 +54,7 @@
       * [👩🏼‍💻 Algorithms](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/README.md)
         * [What's a computer?](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/whats-a-computer.md)
         * [What's an algorithm?](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/whats-an-algorithm.md)
+        * [Turing completeness](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/turing-completeness.md)
         * [Languages](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/languages.md)
         * [Functions](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/functions.md)
         * [Inputs and outputs](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/inputs-and-outputs.md)
