@@ -14,6 +14,6 @@ layout: editorial
 
 <mark style="color:purple;"></mark>
 
-### <mark style="color:green;">ERC-20 tokens are simply computer code (</mark>_<mark style="color:green;">smart contracts)</mark>_ <mark style="color:green;"></mark><mark style="color:green;">living on these global peer-to-peer networks.</mark> [Smart contracts ](cryptonetworks/smart-contracts.md)<mark style="color:green;">determine the token's total supply, how the supply is circulated, the issuance schedule, among other properties.</mark>
+### <mark style="color:green;">ERC-20 tokens are simply computer code (</mark>_<mark style="color:green;">smart contracts)</mark>_ <mark style="color:green;"></mark><mark style="color:green;">living on these global peer-to-peer networks.</mark> [Smart contracts ](cryptonetworks/a-new-economic-infrastructure/smart-contracts.md)<mark style="color:green;">determine the token's total supply, how the supply is circulated, the issuance schedule, among other properties.</mark>
 
 <mark style="color:green;"></mark>
