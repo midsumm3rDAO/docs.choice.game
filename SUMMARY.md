@@ -83,6 +83,7 @@
         * [🧱⛓ Cryptonetworks](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/blockchains.md)
           * [A new economic infrastructure](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/README.md)
             * [Blockchains](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/blockchains.md)
+            * [Components of Blockchains](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/components-of-blockchains.md)
             * [Bitcoin](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/bitcoin.md)
             * [Ethereum](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/ethereum.md)
             * [Ether](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/ether.md)

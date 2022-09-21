@@ -32,7 +32,7 @@ layout: editorial
 
 <mark style="color:purple;"></mark>
 
-### <mark style="color:green;">Ethereum’s language is</mark> [Turing complete](../../../algorithms/turing-completeness.md)<mark style="color:green;">,</mark>&#x20;
+### <mark style="color:green;">Ethereum's language is</mark> [Turing complete](../../../algorithms/turing-completeness.md)<mark style="color:green;">,</mark>&#x20;
 
 ### <mark style="color:green;">meaning that Ethereum can straightforwardly</mark>&#x20;
 
