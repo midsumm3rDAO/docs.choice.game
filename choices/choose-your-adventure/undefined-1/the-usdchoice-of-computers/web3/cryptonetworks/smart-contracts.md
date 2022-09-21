@@ -20,4 +20,8 @@ layout: editorial
 
 <mark style="color:purple;"></mark>
 
+{% hint style="info" %}
+**In the 90s, cryptographer Nick Szabo coined the term and defined it as **_**"a set of promises, specified in digital form, including protocols within which the parties perform on the other promises."**_
+{% endhint %}
+
 <mark style="color:purple;"></mark>

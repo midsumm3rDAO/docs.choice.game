@@ -16,7 +16,7 @@ layout: editorial
 
 
 
-### <mark style="color:green;">2) contract accounts, controlled by the code (smart contracts)</mark>&#x20;
+### <mark style="color:green;">2) contract accounts, controlled by the code (</mark>[smart contracts](../smart-contracts.md)<mark style="color:green;">)</mark>&#x20;
 
 ### <mark style="color:green;">that is executed by the Ethereum Virtual Machine.</mark> <mark style="color:green;">They don't</mark>&#x20;
 
