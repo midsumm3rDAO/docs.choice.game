@@ -12,7 +12,7 @@ layout: editorial
 
 ### <mark style="color:green;">but they are</mark> <mark style="color:green;"></mark>_<mark style="color:green;"></mark> <mark style="color:purple;">logically centralized</mark>_ <mark style="color:green;">(there is one commonly agreed state),</mark>
 
-### <mark style="color:green;">and the entire system behaves like a single</mark> [computer](../../../algorithms/whats-a-computer.md)<mark style="color:green;">.</mark>
+### <mark style="color:green;">and the entire system behaves like a single</mark> [computer](../../algorithms/whats-a-computer.md)<mark style="color:green;">.</mark>
 
 
 
