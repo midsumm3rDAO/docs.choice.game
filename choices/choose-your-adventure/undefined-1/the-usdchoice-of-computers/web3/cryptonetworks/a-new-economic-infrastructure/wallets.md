@@ -22,8 +22,8 @@ layout: editorial
 
 
 
-### <mark style="color:purple;">Some Ethereum wallets can also interact with contracts,</mark>&#x20;
+### <mark style="color:purple;">Some Ethereum wallets can also interact</mark>&#x20;
 
-### <mark style="color:purple;">such as ERC-20 tokens.</mark>
+### <mark style="color:purple;">with contracts, such as ERC-20 tokens.</mark>
 
 \
