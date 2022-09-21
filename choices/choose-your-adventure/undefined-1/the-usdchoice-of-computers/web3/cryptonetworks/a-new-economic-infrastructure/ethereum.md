@@ -8,7 +8,7 @@ layout: editorial
 
 ### <mark style="color:purple;">decentralized computing infrastructure</mark>&#x20;
 
-### <mark style="color:purple;">that executes programs called</mark> [smart contracts](../smart-contracts.md)<mark style="color:purple;">.</mark>&#x20;
+### <mark style="color:purple;">that executes programs called</mark> [smart contracts](smart-contracts/)<mark style="color:purple;">.</mark>&#x20;
 
 <mark style="color:purple;"></mark>
 

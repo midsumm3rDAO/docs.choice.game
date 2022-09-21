@@ -8,7 +8,7 @@ layout: editorial
 
 ### <mark style="color:purple;">A</mark> <mark style="color:orange;">decentralized application</mark> <mark style="color:purple;">(DApp) is a</mark>&#x20;
 
-### [smart contract](../smart-contracts.md) <mark style="color:purple;">and a web user interface, i.e.,</mark>&#x20;
+### [smart contract](smart-contracts/) <mark style="color:purple;">and a web user interface, i.e.,</mark>&#x20;
 
 ### <mark style="color:purple;">a web application that is built on top of open,</mark>&#x20;
 
