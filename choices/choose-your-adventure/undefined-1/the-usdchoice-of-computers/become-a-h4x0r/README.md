@@ -9,13 +9,13 @@ layout: editorial
 
 <mark style="background-color:red;"></mark>
 
-* **​**[**The Ethereum whitepaper**](https://ethereum.org/en/whitepaper/)**​**
+* [**Ethereum Book**](https://github.com/ethereumbook/ethereumbook/)****
+* [**Finematics Videos**](https://www.youtube.com/c/Finematics)****
+* **​**[**The Ethereum whitepaper**](https://ethereum.org/en/whitepaper/)****
+* [**Understanding stablecoins**](https://www.investopedia.com/terms/s/stablecoin.asp)**​**
 * **​**[**The Meaning of Decentralization, by Vitalik**](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**​**
-* **​**[**Metacartel's web3 manifest, by pet3rpan**](https://github.com/lilith-security/Metacartel-is-Roots/blob/master/web3-manifesto.md)****
 * [**Awesome Tokenomics and DAOs**](https://github.com/bt3gl-labs/Awesome-DAOs)
-* [**Understanding stablecoins**](https://www.investopedia.com/terms/s/stablecoin.asp)****
 * [**Advanced DeFi, by CoinGecko**](https://store.coingecko.com/products/how-to-defi-advanced)****
-* ****[**Finematics Videos**](https://www.youtube.com/c/Finematics)****
 
 ****
 
@@ -26,8 +26,6 @@ layout: editorial
 * ****[**The Hacker's Manifest**](http://phrack.org/issues/7/3.html#article)****
 * ****[**A Cypherpunk manifest**](https://activism.net/cypherpunk/manifesto.html)****
 * ****[**Bitcoin: A Peer-to-Peer Electronic Cash System**](https://bitcoin.org/bitcoin.pdf)****
-* [**pet3rpan's Before Bitcoin series**](https://pet3rpan.medium.com/history-of-things-before-bitcoin-cryptocurrency-part-one-e199f02ca380)****
-* [**How to be a pirate**](https://www.youtube.com/watch?v=T0fAznO1wA8)****
 * ****[**The Electronic Frontier Foundation**](https://www.eff.org/)****
 * ****[**The Tor project**](https://www.torproject.org/)****
 
@@ -37,8 +35,8 @@ layout: editorial
 
 
 
-* **Introduction to Algorithms by Thomas H. Corman**
-* **The Algorithm Design Manual by Steve S. Skiena**
+* ****[**Introduction to Algorithms by Thomas H. Corman**](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)****
+* ****[**The Algorithm Design Manual by Steve S. Skiena**](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)****
 * ****[**Python and Algorithms, by bt3gl**](https://github.com/bt3gl-labs/Book-on-Python-and-Algorithms)****
 
 ****
@@ -79,6 +77,7 @@ layout: editorial
 * **Los Angeles**
 * **Berlin**
 * **Hamburg**
+* **Denver**
 * **Lisbon**
 * **Dubai**
 * **Singapore**
