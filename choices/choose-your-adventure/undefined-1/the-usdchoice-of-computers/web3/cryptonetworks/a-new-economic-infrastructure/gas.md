@@ -4,7 +4,7 @@ layout: editorial
 
 # Gas
 
-### <mark style="color:purple;">Gas is the fuel of Ethereum. It's not</mark> [ether](ether-and-wei.md) <mark style="color:purple;">- it's a separate</mark>&#x20;
+### <mark style="color:purple;">Gas is the fuel of Ethereum. It's not</mark> [ether](ether.md) <mark style="color:purple;">- it's a separate</mark>&#x20;
 
 ### <mark style="color:purple;">virtual currency with its own exchange rate.</mark>
 
@@ -22,7 +22,7 @@ layout: editorial
 
 ### <mark style="color:purple;">to set the price they are willing to pay in exchange for gas.</mark>&#x20;
 
-### <mark style="color:purple;">The price is measured in</mark> [wei](ether-and-wei.md) <mark style="color:purple;">per gas unit.</mark>
+### <mark style="color:purple;">The price is measured in</mark> [wei](ether.md) <mark style="color:purple;">per gas unit.</mark>
 
 
 

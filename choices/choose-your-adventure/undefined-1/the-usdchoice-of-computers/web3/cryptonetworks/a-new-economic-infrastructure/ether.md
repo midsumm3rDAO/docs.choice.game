@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# Ether
+# Ether and wei
 
 
 

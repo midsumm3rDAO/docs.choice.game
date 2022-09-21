@@ -16,7 +16,7 @@ layout: editorial
 
 ### <mark style="color:green;">the system's state changes, along with a</mark>&#x20;
 
-### <mark style="color:green;">cryptocurrency called</mark> [ether](ether-and-wei.md) <mark style="color:green;">to constrain</mark>&#x20;
+### <mark style="color:green;">cryptocurrency called</mark> [ether](ether.md) <mark style="color:green;">to constrain</mark>&#x20;
 
 ### <mark style="color:green;">execution resource costs.</mark>
 
