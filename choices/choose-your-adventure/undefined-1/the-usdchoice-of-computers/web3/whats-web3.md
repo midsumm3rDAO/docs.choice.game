@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 👩🏽‍💻 What's web3
+# 👩🏽‍💻 Intro to web3
 
 
 

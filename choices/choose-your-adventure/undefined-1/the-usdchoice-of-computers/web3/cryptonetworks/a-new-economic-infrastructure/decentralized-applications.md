@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# DApps
+# Decentralized applications
 
 <mark style="color:purple;"></mark>
 
