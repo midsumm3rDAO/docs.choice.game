@@ -6,11 +6,23 @@ layout: editorial
 
 
 
-### <mark style="color:purple;">Creating an Ethereum private key</mark>
+### <mark style="color:purple;">Creating an Ethereum private key involves</mark>&#x20;
 
-### &#x20;<mark style="color:purple;">involves picking a number</mark>&#x20;
+### <mark style="color:purple;">picking a number inside a space of</mark> &#x20;
 
-### <mark style="color:purple;">between</mark> <mark style="color:green;">1 and 2^256</mark><mark style="color:purple;">.</mark>
+$$
+2^{256}
+$$
+
+### <mark style="color:green;">There are enough private keys to give it  to</mark>&#x20;
+
+### <mark style="color:green;">every atom in the universe!</mark>&#x20;
+
+<mark style="color:green;"></mark>
+
+### <mark style="color:purple;">If you pick a private key randomly, there is</mark>&#x20;
+
+### <mark style="color:purple;">no way anyone will ever guess it.</mark>
 
 <mark style="color:purple;"></mark>
 
