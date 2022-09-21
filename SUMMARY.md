@@ -57,6 +57,7 @@
         * [Turing completeness](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/turing-completeness.md)
         * [Languages](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/languages.md)
         * [Functions](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/functions.md)
+        * [Memory](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/memory.md)
         * [Inputs and outputs](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/inputs-and-outputs.md)
         * [Variables and constants](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/algorithms/variables-and-constants.md)
       * [👩🏾‍💻 Simulations and determinism](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/simulations-and-determinism.md)
