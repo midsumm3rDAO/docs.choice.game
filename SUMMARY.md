@@ -85,7 +85,7 @@
             * [Wallets](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/wallets.md)
             * [Ethereum private key](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/ethereum-private-key.md)
             * [Ethereum public key](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/ethereum-public-key.md)
-            * [Keccak-256](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/keccak-256.md)
+            * [Ethereum addresses](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/ethereum-addresses.md)
             * [Smart contracts](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/smart-contracts.md)
             * [On-chain storage](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/on-chain-storage.md)
         * [🪙 Cryptocurrencies](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptocurrencies/README.md)
