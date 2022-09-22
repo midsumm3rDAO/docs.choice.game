@@ -10,7 +10,7 @@ layout: editorial
 
 
 
-### <mark style="color:purple;">In the Ethereum network,</mark> <mark style="color:purple;"></mark>_<mark style="color:purple;">fungible money</mark>_ <mark style="color:purple;"></mark><mark style="color:purple;">is represented by the ERC-20 standard. They are blockchain-based primitives that can</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**hold value and be sent and received**</mark><mark style="color:purple;">.</mark>&#x20;
+### <mark style="color:purple;">In the Ethereum network,</mark> [fungible money](stablecoins.md) <mark style="color:purple;">is represented by the ERC-20 standard. They are blockchain-based primitives that can</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**hold value and be sent and received**</mark><mark style="color:purple;">.</mark>&#x20;
 
 <mark style="color:purple;"></mark>
 
