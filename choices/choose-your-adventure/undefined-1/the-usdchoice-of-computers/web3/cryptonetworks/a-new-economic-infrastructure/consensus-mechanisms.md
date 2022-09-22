@@ -10,7 +10,7 @@
 
 ### <mark style="color:green;">Txs are the only things that can trigger a change</mark>&#x20;
 
-### <mark style="color:green;">of state or cause a contract to execute in the EVM.</mark> &#x20;
+### <mark style="color:green;">of state or cause a contract to execute in the</mark> [EVM](ethereum/the-ethereum-virtual-machine.md)<mark style="color:green;">.</mark> &#x20;
 
 ### <mark style="color:green;">Everything starts with a transaction.</mark>
 

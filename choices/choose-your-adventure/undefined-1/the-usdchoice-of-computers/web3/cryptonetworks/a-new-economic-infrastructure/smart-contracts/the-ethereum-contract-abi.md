@@ -14,7 +14,7 @@ layout: editorial
 
 <mark style="color:green;"></mark>
 
-### <mark style="color:purple;">In Ethereum, the ABI is used to encode contract</mark> <mark style="color:orange;">calls for the EVM</mark> <mark style="color:purple;">and to read data out of transactions.</mark>&#x20;
+### <mark style="color:purple;">In Ethereum, the ABI is used to encode contract</mark> <mark style="color:orange;">calls for the</mark> [EVM](../ethereum/the-ethereum-virtual-machine.md) <mark style="color:purple;">and to read data out of transactions.</mark>&#x20;
 
 <mark style="color:purple;"></mark>
 
