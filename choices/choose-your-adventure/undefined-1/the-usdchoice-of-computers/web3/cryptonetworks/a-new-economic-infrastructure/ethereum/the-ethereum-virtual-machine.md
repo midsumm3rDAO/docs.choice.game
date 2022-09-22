@@ -1,3 +1,7 @@
+---
+layout: editorial
+---
+
 # The Ethereum Virtual Machine
 
 
