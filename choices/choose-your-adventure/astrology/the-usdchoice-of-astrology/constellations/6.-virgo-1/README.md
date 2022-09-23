@@ -2,5 +2,5 @@
 layout: editorial
 ---
 
-# 🐍 Team virgo archetype
+# 👸🏻 Team virgo archetype
 

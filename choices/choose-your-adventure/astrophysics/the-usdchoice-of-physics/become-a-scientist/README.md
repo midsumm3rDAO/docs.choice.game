@@ -9,11 +9,11 @@ layout: editorial
 
 
 
-* [Why did our universe being?](https://www.youtube.com/watch?v=ypjZF6Pdrws)
-* [Is mathematics invented or discovered?](https://www.youtube.com/watch?v=ujvS2K06dg4)
-* The Road to Reality
-* Spinors and Space-time
-* Cycles of Time
+* [**Why did our universe being?**](https://www.youtube.com/watch?v=ypjZF6Pdrws)****
+* ****[**Is mathematics invented or discovered?**](https://www.youtube.com/watch?v=ujvS2K06dg4)****
+* **The Road to Reality**
+* **Spinors and Space-time**
+* **Cycles of Time**
 
 
 
@@ -21,10 +21,10 @@ layout: editorial
 
 
 
-* The Demon-Haunted World
-* Cosmos
-* Contact
-* Pale Blue Dot
+* **The Demon-Haunted World**
+* **Cosmos**
+* **Contact**
+* **Pale Blue Dot**
 
 
 
@@ -32,20 +32,20 @@ layout: editorial
 
 
 
-* Lectures on Physics
-* Surely You’re Joking, Mr. Feynman!
-* The Pleasure Of Finding Things Out
-* The Character Of Physical Law
-* QED: The Strange Theory Of Light and Matter
+* **Lectures on Physics**
+* **Surely You’re Joking, Mr. Feynman!**
+* **The Pleasure Of Finding Things Out**
+* **The Character Of Physical Law**
+* **QED: The Strange Theory Of Light and Matter**
 
-
+****
 
 ## <mark style="background-color:red;">Anything Dr. Neil deGrasse Tyson</mark>
 
 
 
-* Welcome to the Universe
-* Astrophysics for People in a Hurry
+* **Welcome to the Universe**
+* **Astrophysics for People in a Hurry**
 
 
 
@@ -53,9 +53,9 @@ layout: editorial
 
 
 
-* A Brief History of Time
-* The Theory of Everything
-* The Universe in a Nutshell
+* **A Brief History of Time**
+* **The Theory of Everything**
+* **The Universe in a Nutshell**
 
 
 
@@ -63,5 +63,5 @@ layout: editorial
 
 
 
-* Physics and Philosophy
+* **Physics and Philosophy**
 
