@@ -1,3 +1,7 @@
+---
+layout: editorial
+---
+
 # Transactions
 
 ### <mark style="color:purple;">Transactions (txs) are signed messages originated by</mark>&#x20;
