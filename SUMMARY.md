@@ -66,7 +66,7 @@
         * [Cryptography is a right](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/README.md)
           * [Asymmetric cryptography](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/asymmetric-cryptography.md)
           * [Public and private keys](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/public-and-private-keys.md)
-          * [Symmetric cryptography](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/symmetric-cryptography.md)
+          * [Entropy](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/entropy.md)
           * [Pseudo-random functions](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/pseudo-random-functions.md)
           * [Hash function](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/hashing-functions.md)
           * [Digital signatures](<choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/symmetric-cryptography (1).md>)
