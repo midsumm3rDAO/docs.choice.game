@@ -11,7 +11,7 @@ layout: editorial
 ### <mark style="color:purple;">picking a number inside a space of</mark> &#x20;
 
 $$
-2^{256}
+\textrm{1 to } 2^{256} \textrm{ possibilities }
 $$
 
 ### <mark style="color:green;">There are enough private keys to give it  to</mark>&#x20;

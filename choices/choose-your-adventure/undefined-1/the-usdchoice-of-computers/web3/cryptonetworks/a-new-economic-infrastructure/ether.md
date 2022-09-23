@@ -6,7 +6,11 @@ layout: editorial
 
 
 
-### <mark style="color:green;">Ether is the native cryptocurrency used by the Ethereum, which covers gas costs when executing transactions.</mark>&#x20;
+### <mark style="color:green;">Ether is the native cryptocurrency</mark>&#x20;
+
+### <mark style="color:green;">used by the Ethereum, which covers</mark>&#x20;
+
+### <mark style="color:green;">gas costs when executing transactions.</mark>&#x20;
 
 
 
