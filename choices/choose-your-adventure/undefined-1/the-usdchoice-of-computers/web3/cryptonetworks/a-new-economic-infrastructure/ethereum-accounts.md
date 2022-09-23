@@ -8,7 +8,7 @@ layout: editorial
 
 
 
-### <mark style="color:purple;">1) externally owned accounts (EOAs), controlled by users,</mark>&#x20;
+### <mark style="color:purple;">1)</mark> <mark style="color:purple;"></mark>_<mark style="color:purple;">externally owned accounts</mark>_ <mark style="color:purple;"></mark><mark style="color:purple;">(EOAs), controlled by users,</mark>&#x20;
 
 ### <mark style="color:purple;">often via software such as a wallet. They are accounts</mark>
 
@@ -16,7 +16,7 @@ layout: editorial
 
 
 
-### <mark style="color:green;">2) contract accounts, controlled by the code (</mark>[smart contracts](../smart-contracts.md)<mark style="color:green;">)</mark>&#x20;
+### <mark style="color:green;">2)</mark> <mark style="color:green;"></mark>_<mark style="color:green;">contract accounts</mark>_<mark style="color:green;">, controlled by the code (</mark>[smart contracts](../smart-contracts.md)<mark style="color:green;">)</mark>&#x20;
 
 ### <mark style="color:green;">that is executed by the Ethereum Virtual Machine.</mark> <mark style="color:green;">They don't</mark>&#x20;
 
