@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 🦀 Team cancer archetype
+# ♑️ General attributes for this team
 
 
 

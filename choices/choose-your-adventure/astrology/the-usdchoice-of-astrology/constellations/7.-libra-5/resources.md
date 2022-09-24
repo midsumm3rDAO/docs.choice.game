@@ -1,9 +1,8 @@
 ---
-description: '"You can''t kill  a capricorn."  - Maren Altman'
 layout: editorial
 ---
 
-# 💎 Team capricorn archetype
+# ♓️ Resources
 
 
 

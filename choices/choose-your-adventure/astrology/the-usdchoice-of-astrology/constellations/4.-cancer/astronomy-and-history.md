@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 🦂 Team scorpio archetype
+# ♋️ Astronomy and history
 
 
 

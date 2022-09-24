@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# ♍️ Astronomy and history
+# ♓️ Astronomy and history
 
 
 

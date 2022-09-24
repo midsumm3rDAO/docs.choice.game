@@ -2,5 +2,5 @@
 layout: editorial
 ---
 
-# 🐏 Team aries archetype
+# 👠 Team taurus archetype
 

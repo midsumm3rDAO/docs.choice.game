@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 🎏 Team pisces archetype
+# ♊️ Astronomy and history
 
 
 

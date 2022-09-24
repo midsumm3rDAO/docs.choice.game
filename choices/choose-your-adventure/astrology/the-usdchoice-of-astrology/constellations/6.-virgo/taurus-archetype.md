@@ -4,8 +4,6 @@ layout: editorial
 
 # ♉️ Taurus archetype
 
-
-
 ### <mark style="color:purple;">reliable</mark>
 
 ### <mark style="color:purple;">patient</mark>
@@ -41,9 +39,4 @@ layout: editorial
 ### <mark style="color:purple;">luxury</mark>
 
 ### <mark style="color:purple;">tradition</mark>
-
-\
-
-
-
 

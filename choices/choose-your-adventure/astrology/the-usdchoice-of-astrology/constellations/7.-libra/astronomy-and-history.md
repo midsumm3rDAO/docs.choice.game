@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# ⚖️ Team libra archetype
+# ♎️ Astronomy and history
 
 
 

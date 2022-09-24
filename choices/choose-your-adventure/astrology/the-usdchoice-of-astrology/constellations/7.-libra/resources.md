@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 👯 Team gemini archetype
+# ♎️ Resources
 
 
 

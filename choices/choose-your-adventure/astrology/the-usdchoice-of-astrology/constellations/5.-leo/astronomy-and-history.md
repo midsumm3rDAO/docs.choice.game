@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# ⭐️ Team aquarius archetype
+# ♌️ Astronomy and history
 
 
 
