@@ -10,7 +10,7 @@ layout: editorial
 
 ### <mark style="color:purple;">friends and groups</mark>&#x20;
 
-### <mark style="color:purple;">emotions coming together</mark>
+### <mark style="color:purple;">a third party</mark>
 
 <mark style="color:purple;"></mark>
 
