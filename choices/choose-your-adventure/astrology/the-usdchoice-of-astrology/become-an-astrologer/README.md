@@ -21,13 +21,13 @@ layout: editorial
 
 <mark style="background-color:green;"></mark>
 
+* **Ancient Astrology in Theory and Practice, by Demetra George et al**
+* **Vettius Valens of Antioch, Anthology, by Andrea L. Gehrz**
+* **Mathesis, by Hulius Firmicus Maternus**
+* **Astrology and the Authentic self, by Demetra George**
 * **Horoscope Symbols, by Robert Hand**
 * **Predictive Astrology, by Bernadette Brady**
 * **The Twelve Houses, by H. Sasportas**
-* **Astrology and the Authentic self, by Demetra George**
-* **Aspects in Astrology, by Sue Tompkins**
-* **Saturn, by Liz Greene**
-* **The Secret Language of Birthdays**
 
 
 
