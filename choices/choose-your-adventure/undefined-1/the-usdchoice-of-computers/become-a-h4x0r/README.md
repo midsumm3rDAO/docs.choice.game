@@ -16,6 +16,7 @@ layout: editorial
 * **​**[**The Meaning of Decentralization, by Vitalik**](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**​**
 * [**Awesome Tokenomics and DAOs**](https://github.com/bt3gl-labs/Awesome-DAOs)
 * [**Advanced DeFi, by CoinGecko**](https://store.coingecko.com/products/how-to-defi-advanced)****
+* [**Intro to stablecoins**](https://ethereum.org/en/stablecoins/)****
 
 ****
 
