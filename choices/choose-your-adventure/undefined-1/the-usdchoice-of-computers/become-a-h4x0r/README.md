@@ -9,14 +9,15 @@ layout: editorial
 
 <mark style="background-color:red;"></mark>
 
-* [**Ethereum Book**](https://github.com/ethereumbook/ethereumbook/)****
-* [**Finematics Videos**](https://www.youtube.com/c/Finematics)****
-* **​**[**The Ethereum whitepaper**](https://ethereum.org/en/whitepaper/)****
+* [**Web3 and docs by ethereum.org**](https://ethereum.org/en/web3/)****
+* [**Intro to stablecoins**](https://ethereum.org/en/stablecoins/)****
 * [**Understanding stablecoins**](https://www.investopedia.com/terms/s/stablecoin.asp)**​**
-* **​**[**The Meaning of Decentralization, by Vitalik**](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**​**
+* [**Finematics intro videos**](https://www.youtube.com/c/Finematics)****
 * [**Awesome Tokenomics and DAOs**](https://github.com/bt3gl-labs/Awesome-DAOs)
 * [**Advanced DeFi, by CoinGecko**](https://store.coingecko.com/products/how-to-defi-advanced)****
-* [**Intro to stablecoins**](https://ethereum.org/en/stablecoins/)****
+* **​**[**The Meaning of Decentralization, by Vitalik**](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)**​**
+* **​**[**The Ethereum whitepaper**](https://ethereum.org/en/whitepaper/)****
+* [**Ethereum Book**](https://github.com/ethereumbook/ethereumbook/)****
 
 ****
 
