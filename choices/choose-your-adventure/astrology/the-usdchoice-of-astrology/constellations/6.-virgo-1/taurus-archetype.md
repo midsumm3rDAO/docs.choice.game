@@ -22,11 +22,28 @@ layout: editorial
 
 ### <mark style="color:purple;">**fertility**</mark>
 
-### <mark style="color:purple;">**a**</mark><mark style="color:purple;">ll or nothing, no in between</mark>&#x20;
-
-### <mark style="color:purple;">**stable, h**</mark><mark style="color:purple;">ates big changes</mark>
+### <mark style="color:purple;">**a**</mark><mark style="color:purple;">ll or nothing</mark>
 
 ### <mark style="color:purple;">**grounded**</mark>
+
+### <mark style="color:purple;">stability</mark>
+
+### <mark style="color:purple;">tenacity</mark>
+
+### <mark style="color:purple;">values and ethics</mark>
+
+### <mark style="color:purple;">routines</mark>
+
+### <mark style="color:purple;">material comfort</mark>
+
+### <mark style="color:purple;">sensuality</mark>
+
+### <mark style="color:purple;">luxury</mark>
+
+### <mark style="color:purple;">tradition</mark>
+
+\
+
 
 
 

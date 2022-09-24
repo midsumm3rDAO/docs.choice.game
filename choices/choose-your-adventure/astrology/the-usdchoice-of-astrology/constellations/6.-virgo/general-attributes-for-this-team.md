@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# ♉️  General attributes for this team
+# ♈️ General attributes for this team
 
 | ATTRIBUTE                                                                                | DATA                |
 | ---------------------------------------------------------------------------------------- | ------------------- |
