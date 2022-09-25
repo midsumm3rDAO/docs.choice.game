@@ -207,7 +207,6 @@
         * [The highest constellation](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/the-ascendant-and-the-midheaven/the-highest-constellation.md)
         * [Resources](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/the-ascendant-and-the-midheaven/resources.md)
       * [🌌  Constellations](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/constellations/README.md)
-        * [Untitled](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/constellations/1.-aries.md)
         * [🐏 Team aries archetype](<choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/constellations/6.-virgo/README (1).md>)
           * [♈️ Aries archetype](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/constellations/6.-virgo/aries-archetype.md)
           * [♈️ General attributes for this team](<choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/constellations/6.-virgo/general-attributes-for-this-team (1).md>)
