@@ -653,6 +653,7 @@
           * [🜄 Acqua](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-4/the-four-elements/acqua.md)
           * [🜁 Aria](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-4/the-four-elements/aria.md)
           * [🜃 Terra](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-4/the-four-elements/terra.md)
+        * [4️⃣ Elements](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-4/4-elements.md)
       * [🌈 𝙻𝚎 𝟽 𝚌𝚊𝚗𝚍𝚎𝚕𝚎 𝚊𝚛𝚌𝚘𝚋𝚊𝚕𝚎𝚗𝚘](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-5/README.md)
         * [Colors](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-5/colors/README.md)
           * [White](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-5/colors/white.md)
