@@ -1,5 +1,5 @@
 ---
-description: 🜄 Mors 🜄
+description: 🜄 Mors, also know as the quality Scorpio in my avatar 🜄
 layout: editorial
 ---
 

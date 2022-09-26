@@ -1,5 +1,5 @@
 ---
-description: △ Vita △
+description: △ Vita, also know as the quality Aries in my avatar △
 layout: editorial
 ---
 

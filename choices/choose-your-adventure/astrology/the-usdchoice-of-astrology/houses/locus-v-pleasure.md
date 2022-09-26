@@ -1,5 +1,5 @@
 ---
-description: △ Nati △
+description: △ Nati, also know as the quality ✨Leo✨ in my avatar △
 layout: editorial
 ---
 

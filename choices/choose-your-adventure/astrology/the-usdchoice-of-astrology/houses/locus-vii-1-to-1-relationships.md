@@ -1,5 +1,5 @@
 ---
-description: 🜁 Uxor 🜁
+description: 🜁 Uxor , also know as the quality Libra in my avatar🜁
 layout: editorial
 ---
 

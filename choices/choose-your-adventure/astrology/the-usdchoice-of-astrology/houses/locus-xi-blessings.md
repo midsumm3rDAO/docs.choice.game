@@ -1,5 +1,5 @@
 ---
-description: 🜁 Benefact 🜁
+description: 🜁 Benefact, also know as the quality Aquarius in my avatar 🜁
 layout: editorial
 ---
 

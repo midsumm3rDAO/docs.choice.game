@@ -1,5 +1,5 @@
 ---
-description: 🜄 Genitor 🜄
+description: 🜄 Genitor, also know as the quality cancer in my avatar 🜄
 layout: editorial
 ---
 

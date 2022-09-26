@@ -1,5 +1,5 @@
 ---
-description: 🜃 Lucrum 🜃
+description: 🜃 Lucrum, also know as the quality Capricorn in my avatar 🜃
 layout: editorial
 ---
 

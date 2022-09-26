@@ -1,5 +1,5 @@
 ---
-description: △ Iter △
+description: △ Iter, also know as the quality Sagittarius in my avatar △
 layout: editorial
 ---
 

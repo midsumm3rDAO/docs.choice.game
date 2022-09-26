@@ -1,5 +1,5 @@
 ---
-description: 🜃 Valetudo 🜃
+description: 🜃 Valetudo, also know as the quality Virgo in my avatar 🜃
 layout: editorial
 ---
 

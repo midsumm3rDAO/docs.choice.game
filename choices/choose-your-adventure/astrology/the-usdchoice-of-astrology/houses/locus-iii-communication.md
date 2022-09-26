@@ -1,5 +1,5 @@
 ---
-description: 🜁 Frates 🜁
+description: 🜁 Frates, also know as the quality Gemini in my avatar 🜁
 layout: editorial
 ---
 

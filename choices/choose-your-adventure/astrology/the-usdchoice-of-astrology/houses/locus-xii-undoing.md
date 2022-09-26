@@ -1,5 +1,5 @@
 ---
-description: 🜄 Carcer 🜄
+description: 🜄 Carcer, also know as the quality Pisces in my avatar 🜄
 layout: editorial
 ---
 
