@@ -20,5 +20,6 @@ layout: editorial
 2. **If you can't physically remove the influence for now, make a plan to be able to do this in the future. Do not stay in a situation that chronically attacks your well-being and your free will.**
 3. **Realize your mind's inertia: every time this person or energy appears inside your mind, acknowledge it and then, gently, move away to your own thoughts and happy spaces.**
 4. **Things might change later, and you might review and reshape your shielding. Don't worry about it now; protect what needs to be shielded from now.**
+5. **Feel free to delete messaging apps from your devices as long as you need time within.**
 
 ###
