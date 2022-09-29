@@ -68,7 +68,7 @@
           * [ECDSA](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/ecdsa.md)
           * [Entropy](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/symmetric-cryptography.md)
           * [Pseudo-random functions](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/pseudo-random-functions.md)
-          * [Hash function](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/hashing-functions.md)
+          * [Hash functions](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/hash-functions.md)
           * [Digital signatures](<choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cryptography/cryptography-is-a-right/symmetric-cryptography (1).md>)
       * [👩🏻‍💻 Cypherpunks](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cypherpunks/README.md)
         * [⏳ The $CHOICE of cypherpunk](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cypherpunks/the-usdchoice-of-cypherpunk.md)

@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# Page of Swords
+# Cutie of Swords
 
 
 
@@ -12,7 +12,9 @@ layout: editorial
 
 ### <mark style="color:purple;">messages or news coming in</mark>&#x20;
 
-### <mark style="color:purple;">an young talkative person in the player's life (or this feature being part of the player's current attitude)</mark>
+### <mark style="color:purple;">an young talkative person in the player's life</mark>&#x20;
+
+### <mark style="color:purple;">(or this feature being part of the player's current attitude)</mark>
 
 <mark style="color:purple;"></mark>
 
