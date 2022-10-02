@@ -18,10 +18,14 @@ layout: editorial
 
 
 
-* **Synchronicity by Dr. Carl G. Jung**
-* **The Red Book by Dr. Carl G. Jung**
+* **Synchronicity, by Dr. Carl G. Jung**
+* **The Red Book, by Dr. Carl G. Jung**
+* **Psychology and Alchemy, by** __ **Dr. Carl G. Jung**
 * **Memories, Dreams, Reflections** **by Dr. Carl G. Jung**
 * **Psychology of the Unconscious by Dr. Carl G. Jung**
+* **Endgame, by Samuel Beckett**
+* **Cosmos and Psyche Book, by Richard Tarnas**
+* **Alchemy of Psychology, by James Hillman**
 * **777 by Aleister Crowley**
 * **The Equinox, Volume I, by Aleister Crowley**
 * **Konx Om Pax, by Aleister Crowley**
@@ -39,6 +43,12 @@ layout: editorial
 * **The Fraternitas Saturni, by Dr. Stephen E. Flowers**&#x20;
 * **The Alchemist, by Paulo Coelho**
 * **The Book of Enoch**
+* **Of Water and the Spirit, by Malidoma Patrice Some**
+* **Alchemy: An Introduction to the Symbolism, by Marie Luise von Franz**
+* **The Golden Game, by Stanislas Klossowski De Rola**
+* **Anatomy of the Psyche, by Edward F. Edinger**
+* **The Shamanic Way of the Bee, by Simon Buxton**
+* **The Tempest, by William Shakespeare**
 
 ****
 
