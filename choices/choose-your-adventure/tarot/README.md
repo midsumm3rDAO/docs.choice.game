@@ -9,9 +9,11 @@ layout: editorial
 
 ### _<mark style="color:purple;">"Tarot is storytelling.</mark>_&#x20;
 
-### _<mark style="color:purple;">Telling stories imbues us with supernatural power</mark>_&#x20;
+### _<mark style="color:purple;">Telling stories imbues us</mark>_&#x20;
 
-### _<mark style="color:purple;">- the power to change our story."</mark>_&#x20;
+### _<mark style="color:purple;">with supernatural power -</mark>_&#x20;
+
+### _<mark style="color:purple;">the power to change our story."</mark>_&#x20;
 
 ### <mark style="color:green;">― Sasha Graham</mark>
 
