@@ -680,6 +680,7 @@
       * [🪲 Become an alchemist](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/become-an-alchemist/README.md)
         * [🏆 You won this adventure!](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/become-an-alchemist/you-won-this-adventure.md)
   * [✨ 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 \[𝚑𝚊𝚛𝚍 𝚖𝚘𝚍𝚎\]](choices/choose-your-adventure/whats-reality/README.md)
+    * [🌌 You are nothing](choices/choose-your-adventure/whats-reality/you-are-nothing.md)
     * [The $CHOICE of Reality](choices/choose-your-adventure/whats-reality/the-usdchoice-of-reality/README.md)
       * [⏳ The Quantum Simulation](choices/choose-your-adventure/whats-reality/the-usdchoice-of-reality/reality-as-a-quantum-simulation/README.md)
         * [Attributes](choices/choose-your-adventure/whats-reality/the-usdchoice-of-reality/reality-as-a-quantum-simulation/attributes.md)
