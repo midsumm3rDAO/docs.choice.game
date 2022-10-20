@@ -15,6 +15,9 @@ layout: editorial
 
 ## Sun  🖤 Venus
 
+* great time to reflect on what you have and what you want.
+* great time to begin relationships.
+
 ## Sun  🖤  Mars
 
 ## Sun  🖤 Jupiter
@@ -70,6 +73,10 @@ layout: editorial
 ## Venus  🖤 Jupiter
 
 ## Venus 🖤  Saturn
+
+* sobriety and seriousness
+
+
 
 ## Venus 🖤 Uranus
 

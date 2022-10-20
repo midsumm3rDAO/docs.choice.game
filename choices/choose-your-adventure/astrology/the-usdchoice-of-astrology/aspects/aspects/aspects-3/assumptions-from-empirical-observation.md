@@ -5,7 +5,7 @@ description: >-
 layout: editorial
 ---
 
-# 🧐 Assumptions from empirical observation
+# 🧐 Assumptions from empirical observation - Transit
 
 ## Sun 💣 Moon
 
