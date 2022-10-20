@@ -13,15 +13,19 @@ layout: editorial
 
 ## Sun  🖤  Mercury
 
-## Sun  🖤  Venus
+## Sun  🖤 Venus
 
 ## Sun  🖤  Mars
 
 ## Sun  🖤 Jupiter
 
-## Sun 🖤  Saturn
+## Sun 🖤 Saturn
 
-## Sun 🖤  Neptune
+* you will remind of who you truly are and what you are meant to be doing in life.&#x20;
+* when you bring out your ‘A’ game, not because you have to, but because you want to.
+* you now understand life and the lessons it has to offer.
+
+## Sun 🖤 Neptune
 
 ## Sun  🖤 Uranus
 
