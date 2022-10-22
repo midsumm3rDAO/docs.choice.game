@@ -122,7 +122,7 @@
         * [🏆 You won this adventure!](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/become-a-h4x0r/you-won-this-adventure.md)
   * [🔭 𝙰𝚜𝚝𝚛𝚘𝚙𝚑𝚢𝚜𝚒𝚌𝚜](choices/choose-your-adventure/astrophysics/README.md)
     * [The $CHOICE of Physics](choices/choose-your-adventure/astrophysics/the-usdchoice-of-physics/README.md)
-      * [🌌 The Big Bang and Inflation](choices/choose-your-adventure/astrophysics/the-usdchoice-of-physics/big-bang.md)
+      * [🌌 The Big Bang and Cosmological Inflation](choices/choose-your-adventure/astrophysics/the-usdchoice-of-physics/big-bang.md)
       * [🌠 Cosmology and gravitation](choices/choose-your-adventure/astrophysics/the-usdchoice-of-physics/cosmology.md)
       * [☄️ Energy in Physics](choices/choose-your-adventure/astrophysics/the-usdchoice-of-physics/energy-in-physics/README.md)
         * [🔋 What's energy?](choices/choose-your-adventure/astrophysics/the-usdchoice-of-physics/energy-in-physics/whats-energy.md)
