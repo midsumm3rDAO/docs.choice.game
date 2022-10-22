@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# Technology
+# Forbes
 
 ### <mark style="color:purple;">Billions of images, videos, songs, and status updates are uploaded to centralized platforms every day.</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**In the traditional client-server architecture, servers are closed systems owned by a particular company**</mark><mark style="color:purple;">.</mark>
 

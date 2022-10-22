@@ -79,7 +79,7 @@
       * [👩🏿‍💻 Web3](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/README.md)
         * [👩🏽‍💻 Intro to web3](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/whats-web3.md)
           * [A new web paradigm](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/whats-web3/a-new-web-paradigm.md)
-          * [Technology](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/intro-to-web3/technology.md)
+          * [Forbes](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/intro-to-web3/forbes.md)
         * [🧱⛓ Cryptonetworks](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/blockchains.md)
           * [A new economic infrastructure](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/README.md)
             * [Blockchains](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/blockchains.md)
