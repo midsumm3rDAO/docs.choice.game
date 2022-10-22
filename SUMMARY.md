@@ -1,6 +1,6 @@
 # Table of contents
 
-* [\[ 𝚍𝚘 𝚢𝚘𝚞 𝚏𝚎𝚎𝚕 𝚕𝚒𝚔𝚎 𝚝𝚑𝚎 𝚙𝚛𝚘𝚝𝚊𝚐𝚘𝚗𝚒𝚜𝚝 𝚘𝚏 𝚢𝚘𝚞𝚛 𝚘𝚠𝚗 𝚜𝚝𝚘𝚛𝚢? \]](README.md)
+* [\[ 𝚊𝚛𝚎 𝚢𝚘𝚞 𝚝𝚑𝚎 𝚙𝚛𝚘𝚝𝚊𝚐𝚘𝚗𝚒𝚜𝚝? \]](README.md)
 
 ## ✨ Is Free Will Real? <a href="#choices" id="choices"></a>
 
