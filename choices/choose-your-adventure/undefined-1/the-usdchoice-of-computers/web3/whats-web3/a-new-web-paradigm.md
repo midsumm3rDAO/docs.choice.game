@@ -12,5 +12,4 @@ layout: editorial
 
 
 
-### <mark style="color:purple;">The</mark> <mark style="color:orange;">web3</mark> <mark style="color:purple;">era is now starting,</mark> <mark style="color:orange;">**combining**</mark>** **<mark style="color:purple;">**the community-governed and fractionalization character from web1 with the modern functionalities of web2 through**</mark>** **<mark style="color:orange;">**cyrptonetworks**</mark>** **<mark style="color:purple;">**(blockchains).**</mark>
-
+### <mark style="color:purple;">The</mark> <mark style="color:orange;">web3</mark> <mark style="color:purple;">era</mark> <mark style="color:orange;">**combines**</mark>** **<mark style="color:purple;">**the community-governed and fractionalization character from web1 with the modern functionalities of web2 through**</mark>** **<mark style="color:orange;">**cyrptonetworks**</mark><mark style="color:purple;">**.**</mark>
