@@ -40,7 +40,7 @@
           * [😱 8. Am I infinite?](choices/choose-your-adventure/undefined/the-usdchoice-of-a-hero/the-game-of-usdchoices/the-heros-journey-stages/8.-am-i-infinite.md)
           * [😱 9. Fathomability.](choices/choose-your-adventure/undefined/the-usdchoice-of-a-hero/the-game-of-usdchoices/the-heros-journey-stages/9.-fathomability..md)
           * [😱 10. Am I god?](choices/choose-your-adventure/undefined/the-usdchoice-of-a-hero/the-game-of-usdchoices/the-heros-journey-stages/10.-am-i-god.md)
-          * [😱 11. Pay back.](choices/choose-your-adventure/undefined/the-usdchoice-of-a-hero/the-game-of-usdchoices/the-heros-journey-stages/.-.-6.md)
+          * [😱 11. What Do You Want From Me?](choices/choose-your-adventure/undefined/the-usdchoice-of-a-hero/the-game-of-usdchoices/the-heros-journey-stages/11.-what-do-you-want-from-me.md)
           * [😱 ∞ Am I infinite?](choices/choose-your-adventure/undefined/the-usdchoice-of-a-hero/the-game-of-usdchoices/the-heros-journey-stages/infinity/README.md)
       * [🦸🏾‍♀️ Become a storyteller](choices/choose-your-adventure/undefined/the-usdchoice-of-a-hero/become-a-storyteller/README.md)
         * [🎞 𝙶𝚗𝚊𝚛𝚕𝚒𝚎𝚜𝚝 𝙰𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎𝚜 𝚘𝚗 𝙵𝚒𝚕𝚖 by midsumm3r](choices/choose-your-adventure/undefined/the-usdchoice-of-a-hero/become-a-storyteller/GAF.md)
