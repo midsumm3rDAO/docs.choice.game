@@ -4,8 +4,6 @@ layout: editorial
 
 # Components of blockchains
 
-<mark style="color:red;"></mark>
-
 ### <mark style="color:red;">The components of an open, public blockchain are:</mark>
 
 * <mark style="color:blue;">**A peer-to-peer (P2P) network connecting participants and propagating transactions.**</mark>
@@ -14,5 +12,3 @@ layout: editorial
 * <mark style="color:blue;">**A consensus algorithm that decentralizes control over the blockchain.**</mark>
 * <mark style="color:blue;">**A state machine that processes transactions according to the consensus rules.**</mark>
 * <mark style="color:blue;">**A game-theoretically sound incentivization scheme to economically secure the state machine.**</mark>
-
-<mark style="color:blue;">****</mark>
