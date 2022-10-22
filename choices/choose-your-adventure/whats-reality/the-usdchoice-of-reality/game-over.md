@@ -13,5 +13,3 @@ layout: landing
 🚪 [**play again** ](../../)****
 
 ****
-
-****

@@ -9,7 +9,7 @@ layout: editorial
 <mark style="background-color:green;"></mark>
 
 * Lie Algebras in Particle Physics - From Isospin to Unified Theories, by Howard Georgi
-* [Introduction to Group Theory for Physicists, by Dr. M. von Steinkirch](http://www.astro.sunysb.edu/steinkirch/books/group.pdf)
+* [Introduction to Group Theory for Physicists, by Dr. M. Steinkirch](http://www.astro.sunysb.edu/steinkirch/books/group.pdf)
 
 
 

@@ -16,5 +16,3 @@ layout: editorial
 _<mark style="color:purple;">****</mark>_
 
 ### <mark style="color:green;">**The natal Hubble chart is**</mark> [the <mark style="color:green;">****</mark> Hubble chart](../) <mark style="color:green;">**representing the exact**</mark> [spacetime coordinates](../../../../astrophysics/the-usdchoice-of-physics/observational/the-cosmos.md) <mark style="color:green;">**of a player's birth.**</mark>&#x20;
-
-<mark style="color:green;">****</mark>
