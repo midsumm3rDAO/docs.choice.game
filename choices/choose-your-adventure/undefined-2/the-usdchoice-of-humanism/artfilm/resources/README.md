@@ -5,9 +5,26 @@ layout: editorial
 
 # 🖼 Resources
 
-## <mark style="background-color:red;">Contemporary influences</mark>
+### The old good stuff
 
-
+* **Miró**
+* **Kandinsky**
+* **Magritte**
+* **Mondrian**
+* **Kahlo**
+* **Munch**
+* **Gauguin**
+* **Klimt**
+* **van Eyck**
+* **Basquiat**
+* **Rembrandt**
+* **Manet**
+* **Pollock**
+* **Bosch**
+* **Monet**
+* **Van Gogh**
+* **Picasso**
+* **Wood**
 
 ### Digital Art
 
@@ -18,18 +35,9 @@ layout: editorial
 * ****[**Pak**](https://twitter.com/muratpak)****
 * ****[**XCOPYART**](https://twitter.com/XCOPYART)****
 * ****[**neon\_based**](https://twitter.com/neon\_based)****
-
-****
-
-### Street Art
-
 * [**Banksy**](https://www.banksy.co.uk/)****
 
-
-
-## <mark style="background-color:green;">Loci</mark>
-
-<mark style="background-color:green;"></mark>
+### Loci
 
 * **Amsterdam**
 * **Rio de Janeiro**
@@ -40,6 +48,3 @@ layout: editorial
 * **Lisbon**
 * **Munich**
 * **Chile**
-
-
-
