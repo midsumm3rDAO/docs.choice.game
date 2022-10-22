@@ -1,7 +1,7 @@
 ---
-description: The 12 disquieting a hero confront, which are conveyed as goals and obstacles.
+description: The 12 disquietudes a hero confront, conveyed as goals and obstacles.
 layout: editorial
 ---
 
-# 🦹🏽‍♀️ The 12 disquieting
+# 🦹🏽‍♀️ The 12 disquietudes
 
