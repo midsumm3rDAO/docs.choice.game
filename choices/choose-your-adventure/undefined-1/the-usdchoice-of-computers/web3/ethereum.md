@@ -4,6 +4,8 @@ layout: editorial
 
 # Ethereum
 
+
+
 ### <mark style="color:green;">Ethereum is a blockchain technology that allows digital money, global payments, and  decentralized applications.</mark> <mark style="color:green;"></mark>_<mark style="color:green;"></mark>_&#x20;
 
 
@@ -12,4 +14,6 @@ layout: editorial
 
 <mark style="color:purple;"></mark>
 
-### <mark style="color:green;">ERC20 tokens are simply computer code (</mark>_<mark style="color:green;">smart contracts)</mark>_ <mark style="color:green;"></mark><mark style="color:green;">living on these global p2p networks.</mark> [Smart contracts ](cryptonetworks/smart-contracts.md)<mark style="color:green;">determine the token's total supply, how the supply is circulated, the issuance schedule, among other properties.</mark>
+### <mark style="color:green;">ERC20 tokens are simply computer code (</mark>_<mark style="color:green;">smart contracts)</mark>_ <mark style="color:green;"></mark><mark style="color:green;">living on these global peer-to-peer networks.</mark> [Smart contracts ](cryptonetworks/smart-contracts.md)<mark style="color:green;">determine the token's total supply, how the supply is circulated, the issuance schedule, among other properties.</mark>
+
+<mark style="color:green;"></mark>

@@ -4,6 +4,8 @@ layout: editorial
 
 # On-chain storage
 
+<mark style="color:green;"></mark>
+
 ### <mark style="color:purple;">Blockchains enable public access and private</mark>&#x20;
 
 ### <mark style="color:purple;">ownership of any digital media file.</mark>
@@ -18,3 +20,4 @@ layout: editorial
 
 ### <mark style="color:purple;">Examples:</mark> [filecoin](https://filecoin.io/) <mark style="color:purple;">and</mark> [arweave](https://www.arweave.org/).
 
+###
