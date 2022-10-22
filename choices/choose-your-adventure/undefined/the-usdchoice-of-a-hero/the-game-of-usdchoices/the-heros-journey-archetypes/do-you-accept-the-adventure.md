@@ -1,9 +1,11 @@
 ---
-description: with Fool.
+description: with the Fool.
 layout: editorial
 ---
 
 # 🤡 Do you accept the adventure?
+
+
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 
@@ -12,4 +14,6 @@ layout: editorial
 ### <mark style="color:red;">Come back later.</mark>
 
 ### <mark style="color:red;">✨⁉️</mark>
+
+
 
