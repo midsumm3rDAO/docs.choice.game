@@ -2,9 +2,7 @@
 layout: editorial
 ---
 
-# Entropy
-
-
+# Entropy in computer sciences
 
 ### <mark style="color:purple;">In cryptography, high entropy means lack of</mark>&#x20;
 
@@ -17,7 +15,3 @@ layout: editorial
 ### <mark style="color:green;">algorithms must rely on a source of high entropy</mark>&#x20;
 
 ### <mark style="color:green;">to ensure the output is unpredictable.</mark>
-
-\
-
-
