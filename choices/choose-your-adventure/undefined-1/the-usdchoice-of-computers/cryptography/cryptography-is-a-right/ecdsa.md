@@ -4,8 +4,6 @@ layout: editorial
 
 # ECDSA
 
-
-
 ### <mark style="color:purple;">Elliptic curve digital signature algorithm is a</mark>&#x20;
 
 ### <mark style="color:purple;">cryptographic algorithm used by Ethereum to</mark>&#x20;
@@ -20,4 +18,3 @@ layout: editorial
 
 ### <mark style="color:green;">and transaction verification.</mark>
 
-\

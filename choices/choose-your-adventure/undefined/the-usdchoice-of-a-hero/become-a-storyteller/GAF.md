@@ -12,7 +12,6 @@ layout: editorial
 * The Shining
 * Mulholland Drive
 * Matrix 1
-* Three Thousand Years of Longing
 * The Seventh Seal
 * 12 Angry Men
 * Solaris
@@ -50,7 +49,7 @@ layout: editorial
 * Nosferatu
 * The Lost Boys
 * Stalker
-* 81/2
+* 8 1/2
 * Run Lola Run
 * Abre los ojos
 * Rosemary's Baby
@@ -148,7 +147,6 @@ layout: editorial
 * Empire Records
 * Goodbye, Lenin
 * Fargo
-* IT (both)
 * Tron
 * Cruel Intentions
 * Elite Squad
@@ -158,5 +156,3 @@ layout: editorial
 * Breaking the Waves
 * The Blair Witch Project
 * Punch-Drunk Love
-* Practical Magic
-

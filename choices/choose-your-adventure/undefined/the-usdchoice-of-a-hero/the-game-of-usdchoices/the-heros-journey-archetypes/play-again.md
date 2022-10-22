@@ -1,11 +1,9 @@
 ---
-description: the Fool is back!
+description: Fool is back!
 layout: editorial
 ---
 
 # 🤡 Play again?
-
-
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 
@@ -14,6 +12,3 @@ layout: editorial
 ### <mark style="color:red;">Come back later.</mark>
 
 ### <mark style="color:red;">✨⁉️</mark>
-
-
-
