@@ -75,7 +75,7 @@
         * [🏴‍☠️ Cypherpunks](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cypherpunks/cypherpunks/README.md)
           * [🏴‍☠️ manifesto](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cypherpunks/cypherpunks/manifesto.md)
         * [➗ Right of math](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cypherpunks/right-of-math.md)
-        * [🏗 Build in public](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cypherpunks/build-in-public.md)
+        * [🏗 Storytelling in public](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/cypherpunks/storytelling-in-public.md)
       * [👩🏿‍💻 Web3](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/README.md)
         * [👩🏽‍💻 Intro to web3](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/whats-web3.md)
           * [A new web paradigm](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/whats-web3/a-new-web-paradigm.md)
