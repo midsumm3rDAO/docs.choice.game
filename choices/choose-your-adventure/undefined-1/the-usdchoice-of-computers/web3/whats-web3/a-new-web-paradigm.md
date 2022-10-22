@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# A new web paradigm
+# Forbes
 
 ### <mark style="color:purple;">In the 90s,</mark> <mark style="color:orange;">web1</mark> <mark style="color:purple;">was about</mark> <mark style="color:orange;">open protocols</mark> <mark style="color:purple;">that were decentralized and community-governed. We had static websites, low bandwidth, and limited hardware. Most of the value accrued to</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**builders+users.**</mark>
 
