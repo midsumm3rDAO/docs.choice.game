@@ -1,4 +1,5 @@
 ---
+description: Here is your homework 📚
 layout: editorial
 ---
 

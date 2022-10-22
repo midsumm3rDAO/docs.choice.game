@@ -1,11 +1,9 @@
 ---
-description: Defeat the Moon.
+description: Defeat Moon.
 layout: editorial
 ---
 
-# 😱 ∞ 𝙰𝚖 𝙸 𝚒𝚗𝚏𝚒𝚗𝚒𝚝𝚎?
-
-
+# 😱 ∞ CA$H out.
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 
@@ -14,6 +12,3 @@ layout: editorial
 ### <mark style="color:red;">Come back later.</mark>
 
 ### <mark style="color:red;">✨⁉️</mark>
-
-
-
