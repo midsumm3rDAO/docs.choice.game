@@ -14,8 +14,6 @@ layout: editorial
 
 ### <mark style="color:purple;">It's two numbers joined together,</mark>
 
-### &#x20;<mark style="color:purple;">produced</mark> <mark style="color:green;">from the private key</mark> <mark style="color:purple;"></mark>&#x20;
+### <mark style="color:purple;">produced</mark> <mark style="color:green;">from the private key</mark> <mark style="color:purple;"></mark>&#x20;
 
 ### <mark style="color:purple;">by a</mark> ["one-way" function"](../../../cryptography/cryptography-is-a-right/asymmetric-cryptography.md)<mark style="color:purple;">.</mark>
-
-### <mark style="color:purple;"></mark>

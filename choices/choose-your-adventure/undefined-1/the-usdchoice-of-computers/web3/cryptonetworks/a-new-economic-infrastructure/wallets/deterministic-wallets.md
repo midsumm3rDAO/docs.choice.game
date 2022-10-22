@@ -22,4 +22,7 @@ layout: editorial
 
 ### <mark style="color:purple;">This design makes the security of the seed</mark>&#x20;
 
-### <mark style="color:purple;">of greatest importance, as it allows access gain to the entire wallet.</mark>&#x20;
+### <mark style="color:purple;">of utmost importance, as only the seed is needed</mark>&#x20;
+
+### <mark style="color:purple;">to gain access to the entire wallet.</mark>&#x20;
+

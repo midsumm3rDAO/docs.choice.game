@@ -18,4 +18,6 @@ layout: editorial
 
 ### <mark style="color:green;">6. data (variable-length binary data payload)</mark>
 
-### <mark style="color:green;">7. v, r, s (components of an ECDSA digital signature of the originating EOA)</mark>
+### <mark style="color:green;">7. v,r,s (components of an ECDSA digital signature of the originating EOA)</mark>
+
+<mark style="color:green;"></mark>

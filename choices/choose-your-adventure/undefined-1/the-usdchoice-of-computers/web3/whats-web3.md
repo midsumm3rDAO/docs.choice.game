@@ -4,7 +4,7 @@ layout: editorial
 
 # 👩🏽‍💻 Intro to web3
 
-### <mark style="color:purple;">During the bull of 2022,</mark>&#x20;
+### <mark style="color:purple;">During the bull of 2021,</mark>&#x20;
 
 ### <mark style="color:purple;">the blockchain space was rebranded</mark>&#x20;
 
