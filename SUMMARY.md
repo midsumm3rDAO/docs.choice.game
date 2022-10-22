@@ -87,7 +87,7 @@
             * [Consensus](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/consensus.md)
             * [Transactions](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/consensus-mechanisms.md)
               * [The structure of a tx](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/transactions/the-structure-of-a-tx.md)
-              * [Transactions are atomic](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/transactions/transactions-are-atomic.md)
+              * [Transactions are ⚛️-ic](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/transactions/transactions-are-ic.md)
             * [Bitcoin](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/bitcoin.md)
             * [Ethereum](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/ethereum.md)
               * [The Ethereum Virtual Machine](choices/choose-your-adventure/undefined-1/the-usdchoice-of-computers/web3/cryptonetworks/a-new-economic-infrastructure/ethereum/the-ethereum-virtual-machine.md)
