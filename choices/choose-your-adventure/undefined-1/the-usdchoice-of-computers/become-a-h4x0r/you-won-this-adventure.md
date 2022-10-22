@@ -5,8 +5,6 @@ layout: editorial
 
 # 🏆 You won this adventure!
 
-###
-
 ### _<mark style="color:purple;">"Science is not only</mark>_&#x20;
 
 ### _<mark style="color:purple;">a disciple of reason</mark>_&#x20;
@@ -18,10 +16,3 @@ layout: editorial
 
 
 ### <mark style="color:green;">– Stephen Hawking</mark>
-
-<mark style="color:green;"></mark>
-
-
-
-<mark style="color:green;"></mark>
-
