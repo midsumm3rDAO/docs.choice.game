@@ -1,0 +1,6 @@
+filters:
+  - true
+  
+commentBody: |
+  thanks for your contribution, unfortunately, we don't use GitHub pull
+  requests to manage code contributions to this repository. 
