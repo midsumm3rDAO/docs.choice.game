@@ -34,10 +34,9 @@ layout: editorial
 
 ## <mark style="background-color:red;">Loci</mark>
 
-
-
 * **Machu Picchu**
 * **Hilo**
 * **Milan**
 * **Joshua Tree**
-
+* **Los Angeles**
+* **Praga**
