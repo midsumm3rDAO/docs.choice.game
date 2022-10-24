@@ -13,6 +13,4 @@ layout: editorial
 * **The Denial of Death, by Becker**
 * **On the Genealogy of Morals, by Nietzsche**
 * **The Book of Disquiet, by Pessoa**
-
-
-
+* **Spinoza**
