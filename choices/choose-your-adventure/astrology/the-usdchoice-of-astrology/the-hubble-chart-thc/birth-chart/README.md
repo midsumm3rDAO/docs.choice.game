@@ -7,7 +7,11 @@ layout: editorial
 
 ### _<mark style="color:purple;">**The instant the player leaves their mother's womb,**</mark>_&#x20;
 
-### _<mark style="color:purple;">**the universe was in a**</mark>_ [_unique state_](../../../../astrophysics/the-usdchoice-of-physics/observational/why-the-universe-is-never-the-same.md)_<mark style="color:purple;">**,**</mark>_&#x20;
+### _<mark style="color:purple;">**the player is not an abstract concept, but real.**</mark>_
+
+_<mark style="color:purple;">****</mark>_
+
+### _<mark style="color:purple;">**The universe was in a**</mark>_ [_unique state_](../../../../astrophysics/the-usdchoice-of-physics/observational/why-the-universe-is-never-the-same.md) _<mark style="color:purple;">**at that point,**</mark>_
 
 ### _<mark style="color:purple;">**a combination of every celestial object in a specific position,**</mark>_&#x20;
 
