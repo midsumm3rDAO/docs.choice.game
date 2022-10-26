@@ -7,7 +7,7 @@ layout: editorial
 
 ## 08/02: a generational <mark style="color:green;">**conjunction of Uranus + Mars + the North Node**</mark> at 18 degrees, in Taurus.
 
-### [How do I interpret the "planets"](../../../planets/)
+### [How do I interpret the "planets"](../../planets/)
 
 * **North Node** will expand with restrictions (think Jupiter marries Saturn, or "Wheel of Fortune", or the head of the Dragon).
 * **Uranus** is all the bad/good luck in the world in an unexpected way (think serendipitous sudden changes, or Aquarius vibes).
@@ -56,4 +56,4 @@ We are curious to see how these are going to play out:
   2. Look at the type of lines among them: trines, square, opposition (don't worry yet about how many delta degrees, you will create your own intuition with experience).&#x20;
   3. Ignore the symbols or objects you don't recognize. Stick with the planets you know the symbol for now (this is advanced stuff).
 
-![](<../../../../../../../.gitbook/assets/Screen Shot 2022-07-29 at 10.42.03 PM.png>)
+![](<../../../../../../.gitbook/assets/Screen Shot 2022-07-29 at 10.42.03 PM.png>)

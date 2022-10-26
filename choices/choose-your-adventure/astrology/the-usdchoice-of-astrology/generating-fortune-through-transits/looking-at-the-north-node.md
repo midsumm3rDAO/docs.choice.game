@@ -2,9 +2,7 @@
 layout: editorial
 ---
 
-# Looking at Jupiter
-
-
+# Looking at the North Node
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 
@@ -13,6 +11,3 @@ layout: editorial
 ### <mark style="color:red;">Come back later.</mark>
 
 ### <mark style="color:red;">✨⁉️</mark>
-
-
-
