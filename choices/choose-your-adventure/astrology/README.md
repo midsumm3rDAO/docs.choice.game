@@ -12,4 +12,4 @@ layout: editorial
 
 <mark style="color:green;"></mark>
 
-> <mark style="color:green;">💡</mark> **Astrology is a set of directives that can be described by** [**group theory**](../astrophysics/the-usdchoice-of-physics/group-theory/)**, a subfield of abstract algebra, on which a player starts as the fool.**
+> <mark style="color:green;">💡</mark> **Astrology is a set of directives that can be described by** [**group theory**](../astrophysics/the-usdchoice-of-physics/group-theory/) **(a subfield of abstract algebra) on which a player starts as the fool.**
