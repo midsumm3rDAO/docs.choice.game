@@ -5,7 +5,7 @@ layout: editorial
 
 # 🖼 Resources
 
-### The old good stuff
+### <mark style="background-color:orange;">Historical influences</mark>
 
 * **Miró**
 * **Kandinsky**
@@ -26,7 +26,7 @@ layout: editorial
 * **Picasso**
 * **Wood**
 
-### Digital Art
+### <mark style="background-color:yellow;">Digital art influences</mark>
 
 * [**Jake Fried**](http://inkwood.net/)****
 * ****[**Fewocious**](https://twitter.com/fewocious)****
@@ -37,7 +37,7 @@ layout: editorial
 * ****[**neon\_based**](https://twitter.com/neon\_based)****
 * [**Banksy**](https://www.banksy.co.uk/)****
 
-### Loci
+### <mark style="background-color:green;">Loci</mark>
 
 * **Amsterdam**
 * **Rio de Janeiro**

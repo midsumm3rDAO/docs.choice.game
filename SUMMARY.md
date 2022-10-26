@@ -173,6 +173,7 @@
       * [💀 Film Aesthetics](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/film-aesthetics/README.md)
         * [📽 Resources](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/film-aesthetics/resources.md)
       * [🌹 ArtFilm](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/artfilm/README.md)
+        * [Artfilm Premisses](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/artfilm/artfilm-premisses.md)
         * [🖼 Resources](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/artfilm/resources/README.md)
           * [🏆 You won this adventure!](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/artfilm/resources/you-won-this-adventure.md)
   * [🖼 𝙰𝚜𝚝𝚛𝚘𝚕𝚘𝚐𝚢](choices/choose-your-adventure/astrology/README.md)
