@@ -163,7 +163,7 @@
         * [🦴 Resources](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/existentialism/resources.md)
       * [👾 Game Theory](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/game-theory/README.md)
         * [🎮 Resources](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/game-theory/resources.md)
-      * [🏴‍☠️ Social-anarchy](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/social-anarchy/README.md)
+      * [🏴‍☠️ Social-Anarchy](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/social-anarchy/README.md)
         * [🥷🏻 Resources](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/social-anarchy/resources.md)
       * [⽍ Stoicism](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/stoicism/README.md)
         * [💡 Resources](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/stoicism/resources.md)
