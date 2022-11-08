@@ -18,9 +18,9 @@ layout: editorial
 
 ## <mark style="background-color:green;">Astrological data</mark>
 
-|          Variable          |                                          Data                                          |
-| :------------------------: | :------------------------------------------------------------------------------------: |
-| Semi-stochastic influences | Affects the player's eccentricity, unpredictability, rebellion, desire of reformation. |
-| Time in each constellation |                                         7 Years                                        |
-|         Teams ruled        |                                        Aquarius                                        |
+|          Variable          |                                                   Data                                                   |
+| :------------------------: | :------------------------------------------------------------------------------------------------------: |
+| Semi-stochastic influences | Affects the player's eccentricity, unpredictability, new technologies, rebellion, desire of reformation. |
+| Time in each constellation |                                                  7 Years                                                 |
+|         Teams ruled        |                                                 Aquarius                                                 |
 
