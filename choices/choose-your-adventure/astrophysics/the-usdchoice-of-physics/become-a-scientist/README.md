@@ -65,3 +65,12 @@ layout: editorial
 
 * **Physics and Philosophy**
 
+****
+
+## <mark style="background-color:blue;">**Anything Dr. Mia von Steinkirch**</mark>
+
+
+
+* [DEFCON 23: Hacking Quantum Computing](https://twitter.com/F4DELEGATECALL/status/1590486420887867392?s=20\&t=97MDb4db-kl2zSHhpawF3Q)
+* [Theoretical Physics notes](http://www.astro.sunysb.edu/steinkirch/#notes)
+
