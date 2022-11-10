@@ -2,7 +2,7 @@
 layout: editorial
 ---
 
-# 🎩 The Midheaven and the team you appear to be playing for
+# 🎩 The Midheaven
 
 
 
