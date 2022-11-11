@@ -684,7 +684,7 @@
         * [🍄 Psychotomimetics](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-6/psychotomimetics.md)
       * [🦗 𝙲𝚎𝚕𝚎𝚋𝚛𝚊𝚣𝚒𝚘𝚗𝚒 𝚌𝚒𝚌𝚕𝚒𝚌𝚑𝚎](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/materializing-1.md)
       * [🌳  𝙻'𝚊𝚕𝚋𝚎𝚛𝚘 𝚍𝚎𝚕𝚕𝚊 𝚟𝚒𝚝𝚊](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-7.md)
-      * [🪰 Alchemy in History](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history.md)
+      * [🐐 Alchemy in History](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/alchemy-in-history.md)
       * [🪲 Become an alchemist](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/become-an-alchemist/README.md)
         * [🏆 You won this adventure!](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/become-an-alchemist/you-won-this-adventure.md)
   * [✨ 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 \[𝚑𝚊𝚛𝚍 𝚖𝚘𝚍𝚎\]](choices/choose-your-adventure/whats-reality/README.md)
