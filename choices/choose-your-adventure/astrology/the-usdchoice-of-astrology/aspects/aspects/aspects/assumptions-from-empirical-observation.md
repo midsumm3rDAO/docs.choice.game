@@ -21,9 +21,9 @@ layout: editorial
 
 ## Sun 🖤 Saturn
 
-* you will remind of who you truly are and what you are meant to be doing in life.&#x20;
-* when you bring out your ‘A’ game, not because you have to, but because you want to.
-* you now understand life and the lessons it has to offer.
+* you will remind of who you truly are and what you are meant to be doing in life
+* when you bring out your ‘A’ game, not because you have to, but because you want to
+* you now understand life and the lessons it has to offer
 
 ## Sun 🖤 Neptune
 
@@ -85,13 +85,21 @@ layout: editorial
 
 ## Mars  🖤 Jupiter
 
-## Mars 🖤  Saturn
+## Mars  🖤  Saturn
 
-## Mars 🖤  Uranus
+## Mars  🖤  Uranus
 
 ## Mars  🖤 Pluto
 
-## Mars 🖤  North Node
+## Mars  🖤  North Node
+
+## Mars  🖤 Lilith
+
+* intense, fiery time
+* you might have rebellion motivations
+* anger and rage can be triggered easily now
+* act with confidence and pursuit your individual ambitions
+* be careful, conceal your power
 
 ## Jupiter 🖤 Ascendant
 
