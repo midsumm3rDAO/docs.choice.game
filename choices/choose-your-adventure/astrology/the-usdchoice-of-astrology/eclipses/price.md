@@ -1,11 +1,8 @@
 ---
-description: '"Eclipses are just a shadow, and who is afraid of a shadow?"'
 layout: editorial
 ---
 
-# 🌑 Eclipses and Nodes
-
-
+# Price
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 
@@ -14,6 +11,3 @@ layout: editorial
 ### <mark style="color:red;">Come back later.</mark>
 
 ### <mark style="color:red;">✨⁉️</mark>
-
-
-
