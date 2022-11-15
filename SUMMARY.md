@@ -326,6 +326,8 @@
         * [Metaphysics of Eclipses](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/eclipses/metaphysics-of-eclipses.md)
         * [Power](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/eclipses/power.md)
         * [Price](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/eclipses/price.md)
+        * [Rahu & Ketu](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/eclipses/rahu-and-ketu.md)
+        * [Lunar nodes and THC](choices/choose-your-adventure/astrology/the-usdchoice-of-astrology/eclipses/lunar-nodes-and-thc.md)
   * [🔎 𝚃𝚊𝚛𝚘𝚝](choices/choose-your-adventure/tarot/README.md)
     * [The $CHOICE of Tarot](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/README.md)
       * [🤎 Tarot origins](choices/choose-your-adventure/tarot/the-usdchoice-of-tarot/tarot-in-history/README.md)

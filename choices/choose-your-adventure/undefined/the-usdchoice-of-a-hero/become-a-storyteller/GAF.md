@@ -30,6 +30,7 @@ layout: editorial
 * Wild Strawberries
 * Dr. Strangelove
 * High Fidelity
+* Kiki's Delivery Service
 * Arrival
 * Before Sunrise
 * Hackers
