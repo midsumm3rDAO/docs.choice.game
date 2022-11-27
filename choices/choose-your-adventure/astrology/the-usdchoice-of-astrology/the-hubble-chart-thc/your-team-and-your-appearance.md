@@ -1,3 +1,7 @@
+---
+layout: editorial
+---
+
 # 💁🏻‍♀️Your team and your appearance
 
 
