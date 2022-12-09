@@ -164,6 +164,7 @@
       * [👾 Game Theory](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/game-theory/README.md)
         * [🎮 Resources](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/game-theory/resources.md)
       * [🏴‍☠️ Social-Anarchy](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/social-anarchy/README.md)
+        * [Notes on Anarchism by Noam Chomsky](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/social-anarchy/notes-on-anarchism-by-noam-chomsky.md)
         * [🥷🏻 Resources](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/social-anarchy/resources.md)
       * [⽍ Stoicism](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/stoicism/README.md)
         * [💡 Resources](choices/choose-your-adventure/undefined-2/the-usdchoice-of-humanism/stoicism/resources.md)
