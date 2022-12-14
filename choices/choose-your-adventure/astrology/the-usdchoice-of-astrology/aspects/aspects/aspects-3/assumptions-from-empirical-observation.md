@@ -19,23 +19,13 @@ layout: editorial
 
 ## Sun 💣 Jupiter
 
-
-
 ## Sun 💣 Saturn
-
-
 
 ## Sun 💣 Neptune
 
-
-
 ## Sun 💣 Uranus
 
-
-
 ## Sun 💣 Pluto
-
-
 
 ## Sun 💣 North Node
 
@@ -61,8 +51,6 @@ layout: editorial
 
 ## Mercury 💣 **** Venus
 
-
-
 ## Mercury 💣 Mars
 
 ## Mercury 💣 Jupiter
@@ -70,6 +58,10 @@ layout: editorial
 ## Mercury 💣 Saturn
 
 ## Mercury 💣 Uranus
+
+## Mercury 💣 Neptune
+
+* Intense dreams and nightmares
 
 ## Mercury 💣 Pluto
 
@@ -89,23 +81,15 @@ layout: editorial
 
 ## Venus 💣 North Node
 
-
-
 ## Mars 💣 Ascendant
 
 ## Mars 💣 Jupiter
 
 ## Mars 💣 Saturn
 
-
-
 ## Mars 💣 Uranus
 
-
-
 ## Mars 💣 Pluto
-
-
 
 ## Mars 💣 North Node
 
