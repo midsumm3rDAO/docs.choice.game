@@ -85,6 +85,7 @@ layout: editorial
 * Monty Python and the Holy Grail
 * Lock, Stock And Two Smoking Barrels
 * Birds
+* Eyes Wide Shut
 * Modern Times
 * The Rocky Horror Picture Show
 * American Story X
