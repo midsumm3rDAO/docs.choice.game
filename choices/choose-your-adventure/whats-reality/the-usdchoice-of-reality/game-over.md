@@ -1,5 +1,5 @@
 ---
-description: (we all die in the end)
+description: We all die in the end.
 layout: landing
 ---
 
