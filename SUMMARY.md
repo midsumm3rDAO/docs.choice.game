@@ -4,7 +4,7 @@
 
 ## ✨ Is Free Will Real? <a href="#choices" id="choices"></a>
 
-* [🧠 There's more to the picture than meets the eye](choices/theres-more-to-the-picture-than-meets-the-eye.md)
+* [🧠 𝚃𝚑𝚎𝚛𝚎'𝚜 𝚖𝚘𝚛𝚎 𝚝𝚘 𝚝𝚑𝚎 𝚙𝚒𝚌𝚝𝚞𝚛𝚎 𝚝𝚑𝚊𝚗 𝚖𝚎𝚎𝚝𝚜 𝚝𝚑𝚎 𝚎𝚢𝚎](choices/undefined.md)
 * [⏳ Choose your adventure!](choices/choose-your-adventure/README.md)
   * [🦸♀ 𝚂𝚝𝚘𝚛𝚢𝚝𝚎𝚕𝚕𝚒𝚗𝚐](choices/choose-your-adventure/undefined/README.md)
     * [🦸♀ The $CHOICE of a hero](choices/choose-your-adventure/undefined/the-usdchoice-of-a-hero/README.md)
