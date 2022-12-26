@@ -1,4 +1,5 @@
 ---
+description: As above, so below.
 layout: editorial
 ---
 

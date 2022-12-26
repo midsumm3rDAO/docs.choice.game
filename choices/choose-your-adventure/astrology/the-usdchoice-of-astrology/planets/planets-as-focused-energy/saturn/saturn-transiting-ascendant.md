@@ -1,5 +1,6 @@
 ---
 description: A personal testimonial by Papeza
+layout: editorial
 ---
 
 # 🪐 Saturn transiting ascendant
