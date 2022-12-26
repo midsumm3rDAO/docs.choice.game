@@ -7,7 +7,7 @@ layout: editorial
 
 **In 2022, Saturn crossed my ascendant twice. The first time, before going, it went retrograde, I was in Dubai. I had two very impactful dreams about my past and my future, which helped me pursue my life objectives encoded on my north node.**
 
-**Then, many months later, on the nights Saturn crossed my ascendant again, together with a retrograde mercury shadow in my 12th house, I dreamed about how I died in a past life. I dreamed about feeling at home in a place I had never been, with people I had never met. I felt the feeling of being happy. My death was through water; I don't need to tell more details. This might explain many facts in this current life, and the fact that my natal Neptune retrograde is strongly connected to my south node and moon.**&#x20;
+**Then, many months later, on the nights Saturn crossed my ascendant again, together with a** [**retrograde mercury**](../../../retrogrades/) **shadow in my 12th house, I dreamed about how I died in a past life. I dreamed about feeling at home in a place I had never been, with people I had never met. I felt the feeling of being happy. My death was through water; I don't need to tell more details. This might explain many facts in this current life, and the fact that my natal Neptune retrograde is strongly connected to my south node and moon.**&#x20;
 
 **I believe retrogrades are just extra challenges in this game: we need to "revert" them during this life. I believe I have reverted my Neptune today.**
 
