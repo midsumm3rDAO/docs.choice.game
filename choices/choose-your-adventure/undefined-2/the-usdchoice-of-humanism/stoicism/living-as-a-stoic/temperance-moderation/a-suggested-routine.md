@@ -13,7 +13,7 @@ layout: editorial
 2. Turn music on
 3. Yoga
 4. Shower
-5. Bathoroom spa
+5. Bathroom spa
 6. Meditation and tea
 7. Caffeine and vitamins
 8. Brunch
@@ -22,7 +22,7 @@ layout: editorial
 
 1. Emails
 2. Plan tomorrow
-3. Work out and cardio
+3. Workout and cardio
 4. Prepare food
 5. Shower
 6. Bathroom spa
@@ -45,7 +45,7 @@ layout: editorial
 
 * Brew kombucha
 * Gardening
-* Clearning
+* Cleaning
 * Laundry
 
 ## <mark style="color:green;">\~\~\~\~ Monthly \~\~\~\~\~</mark>
@@ -64,7 +64,7 @@ layout: editorial
 * Manicure
 * Counseling
 
-### <mark style="color:orange;">Every full moon 🌕</mark>
+### <mark style="color:orange;">Every 🌕</mark>
 
 * Fun and celebration
 * Publish&#x20;
