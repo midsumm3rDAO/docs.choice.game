@@ -3,7 +3,7 @@ description: Suggested by Papeza
 layout: editorial
 ---
 
-# Courage
+# Temperance (Moderation)
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 

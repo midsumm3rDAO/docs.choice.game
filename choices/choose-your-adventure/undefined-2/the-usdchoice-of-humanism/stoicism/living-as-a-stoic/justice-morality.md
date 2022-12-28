@@ -3,7 +3,7 @@ description: Suggested by Papeza
 layout: editorial
 ---
 
-# Temperance
+# Justice (Morality)
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 

@@ -3,7 +3,7 @@ description: Suggested by Papeza
 layout: editorial
 ---
 
-# Justice
+# Wisdom (Prudence)
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 

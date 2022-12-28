@@ -3,7 +3,7 @@ description: Suggested by Papeza
 layout: editorial
 ---
 
-# Wisdom
+# Courage (Fortitude)
 
 ### <mark style="color:red;">✨⁉️</mark>&#x20;
 
