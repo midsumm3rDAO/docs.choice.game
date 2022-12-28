@@ -1,11 +1,11 @@
 ---
-description: Suggested by Papeza
+description: Suggested by Papeza.
 layout: editorial
 ---
 
 # A suggested routine
 
-## <mark style="color:green;">\~\~\~\~ Daily \~\~\~\~\~</mark>
+## 🌹 <mark style="color:green;">DAILY</mark>
 
 ### <mark style="color:red;">🏙 Every morning</mark>
 
@@ -31,7 +31,7 @@ layout: editorial
    * play chess
    * read a book
 
-## <mark style="color:green;">\~\~\~\~ Weekly \~\~\~\~\~</mark>
+## 🌹 <mark style="color:green;">WEEKLY</mark>
 
 ### <mark style="color:purple;">Every 🌛 on Earth (♉️♑️♍️)</mark>
 
@@ -48,7 +48,7 @@ layout: editorial
 * Cleaning
 * Laundry
 
-## <mark style="color:green;">\~\~\~\~ Monthly \~\~\~\~\~</mark>
+## 🌹 <mark style="color:green;">MONTHLY</mark>
 
 ### <mark style="color:orange;">Every 🌚</mark>
 
@@ -72,7 +72,7 @@ layout: editorial
   * monthly news
   * social media
 
-## <mark style="color:green;">\~\~\~\~ Yearly \~\~\~\~\~</mark>
+## 🌹 <mark style="color:green;">YEARLY</mark>
 
 ### <mark style="color:yellow;">Every 🌞 in Pisces (my 2nd house)</mark>
 
@@ -94,8 +94,3 @@ layout: editorial
 
 * Mental spa and intense meditation
 * Personal or big chores
-
-
-
-
-

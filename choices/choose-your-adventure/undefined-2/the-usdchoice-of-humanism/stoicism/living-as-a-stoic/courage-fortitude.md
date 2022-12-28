@@ -1,5 +1,4 @@
 ---
-description: Suggested by Papeza
 layout: editorial
 ---
 
