@@ -35,42 +35,37 @@ layout: editorial
 
 ### <mark style="color:purple;">Every 🌛 on Earth (♉️♑️♍️)</mark>
 
-* Any organization or big shopping
 * Body, face, hairs spa
-* Massage&#x20;
-* Order grocery
-* Order vitamins and med
+* Order grocery, vitamins, meds&#x20;
 
 ### <mark style="color:purple;">Every 🌜 on Water (♏️♓️♋️)</mark>
 
 * Brew kombucha
 * Gardening
-* Cleaning
-* Laundry
 
 ## 🌹 <mark style="color:green;">MONTHLY</mark>
 
+### <mark style="color:orange;">Every waxing 🌙</mark>
+
+* Clean house
+* Laundry
+
 ### <mark style="color:orange;">Every 🌚</mark>
 
-* Period + new cycle
-* Relaxing
-* Counseling&#x20;
+* Period (new cycle)
+* Massage and relaxing&#x20;
 * Goals and manifestation
 
 ### <mark style="color:orange;">Every crescent 🌙</mark>
 
 * Brazilian
-* Get lashes
 * Manicure
 * Counseling
 
 ### <mark style="color:orange;">Every 🌕</mark>
 
-* Fun and celebration
-* Publish&#x20;
-  * article
-  * monthly news
-  * social media
+* Celebration
+* Publish articles and social media
 
 ## 🌹 <mark style="color:green;">YEARLY</mark>
 
@@ -88,9 +83,9 @@ layout: editorial
 
 ### <mark style="color:yellow;">Every 🌞 in Libra (my 9th house)</mark>
 
-* Plan holidays and snowboarding
+* Plan holidays and snowboarding season
 
 ### <mark style="color:yellow;">Every 🌞 in Capricorn (my 12th house)</mark>
 
-* Mental spa and intense meditation
-* Personal or big chores
+* Mental cleanse
+* Personal big chores
